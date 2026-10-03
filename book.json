@@ -1,0 +1,17 @@
+{
+  "slug": "sbp",
+  "clean_cover": "assets/book-cover.png",
+  "cover_size": { "width": 1024, "height": 1536 },
+  "publisher": "Graphene Lab",
+  "year": "2026",
+  "languages": {
+    "EN": {
+      "title": "Selling by Phone: The Complete Advanced Manual",
+      "subtitle": "Strategies, Methodologies, Scripts and Tools for Phone Sales Success",
+      "author": "Andrea Bruno",
+      "color": "#FFFFFF",
+      "genre": "Business / Sales & Marketing",
+      "isbn": ""
+    }
+  }
+}
