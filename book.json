@@ -12,6 +12,46 @@
       "color": "#FFFFFF",
       "genre": "Business / Sales & Marketing",
       "isbn": ""
+    },
+    "IT": {
+      "title": "Vendere al Telefono: Manuale Completo e Avanzato",
+      "subtitle": "Strategie, Metodologie, Script e Strumenti per il Successo Telefonico",
+      "author": "Andrea Bruno",
+      "color": "#FFFFFF",
+      "genre": "Business / Vendite e Marketing",
+      "isbn": ""
+    },
+    "FR": {
+      "title": "Vendre par Téléphone : Le Manuel Complet et Avancé",
+      "subtitle": "Stratégies, Méthodologies, Scripts et Outils pour la Réussite Commerciale par Téléphone",
+      "author": "Andrea Bruno",
+      "color": "#FFFFFF",
+      "genre": "Business / Ventes et Marketing",
+      "isbn": ""
+    },
+    "ES": {
+      "title": "Vender por Teléfono: El Manual Completo y Avanzado",
+      "subtitle": "Estrategias, Metodologías, Scripts y Herramientas para el Éxito en Ventas Telefónicas",
+      "author": "Andrea Bruno",
+      "color": "#FFFFFF",
+      "genre": "Negocios / Ventas y Marketing",
+      "isbn": ""
+    },
+    "DE": {
+      "title": "Verkauf am Telefon: Das Komplette Fortgeschrittene Handbuch",
+      "subtitle": "Strategien, Methoden, Skripte und Werkzeuge für den Erfolg im Telefonverkauf",
+      "author": "Andrea Bruno",
+      "color": "#FFFFFF",
+      "genre": "Business / Vertrieb und Marketing",
+      "isbn": ""
+    },
+    "RU": {
+      "title": "Продажи по телефону: Полный продвинутый учебник",
+      "subtitle": "Стратегии, методологии, скрипты и инструменты для успеха в телефонных продажах",
+      "author": "Andrea Bruno",
+      "color": "#FFFFFF",
+      "genre": "Бизнес / Продажи и маркетинг",
+      "isbn": ""
     }
   }
 }

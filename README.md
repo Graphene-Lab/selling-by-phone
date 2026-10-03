@@ -8,17 +8,14 @@
 
 ## 📥 Download the Book
 
-| Format | English |
-|--------|---------|
-| **PDF** | [sbp-EN.pdf](publish/sbp-EN.pdf) |
-| **EPUB** | [sbp-EN.epub](publish/sbp-EN.epub) |
-
-*Italian, French, Spanish, German, and Russian editions coming soon.*
-
-| Format | Italian | French | Spanish | German | Russian |
-|--------|---------|--------|---------|--------|---------|
-| **PDF** | Coming soon | Coming soon | Coming soon | Coming soon | Coming soon |
-| **EPUB** | Coming soon | Coming soon | Coming soon | Coming soon | Coming soon |
+| Language | PDF | EPUB |
+|----------|-----|------|
+| 🇬🇧 **English** | [sbp-EN.pdf](publish/sbp-EN.pdf) | [sbp-EN.epub](publish/sbp-EN.epub) |
+| 🇮🇹 **Italiano** | [sbp-IT.pdf](publish/sbp-IT.pdf) | [sbp-IT.epub](publish/sbp-IT.epub) |
+| 🇫🇷 **Français** | [sbp-FR.pdf](publish/sbp-FR.pdf) | [sbp-FR.epub](publish/sbp-FR.epub) |
+| 🇪🇸 **Español** | [sbp-ES.pdf](publish/sbp-ES.pdf) | [sbp-ES.epub](publish/sbp-ES.epub) |
+| 🇩🇪 **Deutsch** | [sbp-DE.pdf](publish/sbp-DE.pdf) | [sbp-DE.epub](publish/sbp-DE.epub) |
+| 🇷🇺 **Русский** | [sbp-RU.pdf](publish/sbp-RU.pdf) | [sbp-RU.epub](publish/sbp-RU.epub) |
 
 ---
 
@@ -34,6 +31,7 @@
 - **Psychology-driven**: Deep understanding of buyer behavior, cognitive biases, and influence techniques
 - **2026 updated**: Reflects the latest market trends, AI integration, and regulatory landscape
 - **Historical context**: Anecdotes, historical events, and curiosities that make learning engaging
+- **6 languages**: Available in English, Italian, French, Spanish, German, and Russian
 
 ### Who This Book Is For
 
