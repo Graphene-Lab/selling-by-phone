@@ -10,12 +10,12 @@
 
 | Language | PDF | EPUB |
 |----------|-----|------|
-| 🇬🇧 **English** | [sbp-EN.pdf](publish/sbp-EN.pdf) | [sbp-EN.epub](publish/sbp-EN.epub) |
-| 🇮🇹 **Italiano** | [sbp-IT.pdf](publish/sbp-IT.pdf) | [sbp-IT.epub](publish/sbp-IT.epub) |
-| 🇫🇷 **Français** | [sbp-FR.pdf](publish/sbp-FR.pdf) | [sbp-FR.epub](publish/sbp-FR.epub) |
-| 🇪🇸 **Español** | [sbp-ES.pdf](publish/sbp-ES.pdf) | [sbp-ES.epub](publish/sbp-ES.epub) |
-| 🇩🇪 **Deutsch** | [sbp-DE.pdf](publish/sbp-DE.pdf) | [sbp-DE.epub](publish/sbp-DE.epub) |
-| 🇷🇺 **Русский** | [sbp-RU.pdf](publish/sbp-RU.pdf) | [sbp-RU.epub](publish/sbp-RU.epub) |
+| 🇬🇧 **English** | [sbp-EN.pdf](https://github.com/Graphene-Lab/selling-by-phone/releases/download/v1.0.0/sbp-EN.pdf) | [sbp-EN.epub](https://github.com/Graphene-Lab/selling-by-phone/releases/download/v1.0.0/sbp-EN.epub) |
+| 🇮🇹 **Italiano** | [sbp-IT.pdf](https://github.com/Graphene-Lab/selling-by-phone/releases/download/v1.0.0/sbp-IT.pdf) | [sbp-IT.epub](https://github.com/Graphene-Lab/selling-by-phone/releases/download/v1.0.0/sbp-IT.epub) |
+| 🇫🇷 **Français** | [sbp-FR.pdf](https://github.com/Graphene-Lab/selling-by-phone/releases/download/v1.0.0/sbp-FR.pdf) | [sbp-FR.epub](https://github.com/Graphene-Lab/selling-by-phone/releases/download/v1.0.0/sbp-FR.epub) |
+| 🇪🇸 **Español** | [sbp-ES.pdf](https://github.com/Graphene-Lab/selling-by-phone/releases/download/v1.0.0/sbp-ES.pdf) | [sbp-ES.epub](https://github.com/Graphene-Lab/selling-by-phone/releases/download/v1.0.0/sbp-ES.epub) |
+| 🇩🇪 **Deutsch** | [sbp-DE.pdf](https://github.com/Graphene-Lab/selling-by-phone/releases/download/v1.0.0/sbp-DE.pdf) | [sbp-DE.epub](https://github.com/Graphene-Lab/selling-by-phone/releases/download/v1.0.0/sbp-DE.epub) |
+| 🇷🇺 **Русский** | [sbp-RU.pdf](https://github.com/Graphene-Lab/selling-by-phone/releases/download/v1.0.0/sbp-RU.pdf) | [sbp-RU.epub](https://github.com/Graphene-Lab/selling-by-phone/releases/download/v1.0.0/sbp-RU.epub) |
 
 ---
 
