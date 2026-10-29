@@ -1,87 +1,97 @@
-# Casi pratici B2G e no-profit
+# Capitolo 35: B2G e Non-Profit al Telefono
 
-## 35.1 Tenders and Public Procurement
-Government sales (B2G) involve formal procurement processes:
-- Public tenders and RFPs (Request for Proposal)
-- Long cycles (3-12 months)
-- Strict compliance requirements
-- Multiple approval layers
-- Price and compliance weighted heavily
+## 35.1 Vendere al Governo (B2G)
 
-**Phone strategy for B2G:**
-- Use phone for relationship building, not direct selling
-- Identify the right department and contact through research
-- Attend industry events and government supplier days
-- Follow formal procurement channels for actual bids
+Vendere al governo richiede un approccio diverso. I cicli sono più lunghi, i processi più formali, e le motivazioni diverse dal profitto.
 
-## 35.2 Public Entities
-Selling to public entities requires:
-- Understanding of public sector budget cycles
-- Compliance with public procurement regulations
-- Patience and persistence
-- Relationship building over months
-- Alignment with public sector priorities (digitalization, efficiency, cost reduction)
+**Caratteristiche B2G:**
+- **Ciclo**: 3-12 mesi
+- **Processo**: Gare d'appalto, RFP, RFI
+- **Motivazione**: Risparmio pubblico, compliance, sicurezza
+- **Stakeholder**: Multipli (IT, procurement, legale, politico)
+- **Budget**: Annuale, con finestre specifiche
+- **Vincoli**: Normative, trasparenza, par condicio
 
-🤖 **AgentBridge Example**: "AgentBridge aligns with the government's digital transformation agenda. It enables public entities to adopt AI while maintaining full data sovereignty — a critical requirement for public sector organizations."
+**Approccio AgentBridge per B2G:**
+📞 "Buongiorno, sono Andrea di Graphene Lab. Chiamo perché AgentBridge è un'AI self-hosted che automatizza la documentazione amministrativa. Per un ente pubblico, questo significa: risparmio di fondi pubblici, zero rischio di dati sensibili nel cloud, e conformità alle normative sulla sovranità digitale. Sareste interessati a una presentazione?"
 
-## 35.3 Non-Profit
-Non-profits have unique characteristics:
-- Limited budgets but high mission alignment
-- Decision-making often involves board approval
-- Values-driven purchasing decisions
-- Strong community and referral networks
-- Grant-funded projects with specific timelines
+## 35.2 Vendere a Non-Profit e ONG
 
-**Phone approach for non-profits:**
-- Lead with mission alignment, not features
-- Emphasize cost savings (every euro saved goes to the mission)
-- Be patient and relationship-focused
-- Leverage volunteer networks for referrals
-- Offer non-profit pricing or pro-bono pilots
+**Caratteristiche Non-Profit:**
+- **Budget**: Limitato, donazioni-dependent
+- **Motivazione**: Massimizzare impatto, minimizzare overhead
+- **Team**: Spesso volontari o sotto-pagati
+- **Documenti**: Report donatori, bandi, rendicontazioni
+- **Privacy**: Dati beneficiari sensibili
 
-## 35.4 Compliance
-B2G and non-profit sales have additional compliance requirements:
-- Anti-corruption regulations
-- Transparency in procurement
-- Conflict of interest declarations
-- Data protection (especially for public entities)
-- Accessibility requirements
+**Approccio AgentBridge per Non-Profit:**
+📞 "Ciao Marco, sono Andrea di Graphene Lab. So che per una non-profit ogni euro conta. AgentBridge può ridurre il vostro overhead amministrativo del 80%, liberando risorse per la vostra missione. E i dati dei vostri beneficiari restano completamente privati. Offriamo anche pricing agevolato per non-profit. Posso mostrarvi come?"
 
-## 35.5 Long Cycles
-B2G cycles can be 6-18 months. Manage them by:
-- Setting regular check-in cadences (monthly)
-- Providing value at every touch (policy updates, industry news)
-- Building multiple relationships within the organization
-- Aligning with budget cycles (apply before budget is set)
-- Being patient but persistent
+## 35.3 Adattare il Linguaggio
 
-## 35.6 Scripts
-📞 **B2G relationship-building call:**
-"Hi [Name], this is [You] from Graphene Lab. I'm reaching out because we work with public sector organizations on AI-powered office automation that maintains full data sovereignty. I'd love to learn about your digital transformation priorities and see if there's alignment. Would you have 15 minutes for an introductory call?"
+| Contesto | Linguaggio | Focus |
+|----------|-----------|-------|
+| **B2G** | Formale, istituzionale | Compliance, risparmio pubblico, sovranità dati |
+| **Non-Profit** | Empatico, mission-driven | Impatto, risorse per la missione, privacy beneficiari |
+| **B2B** | Professionale, ROI-driven | Efficienza, profitto, scalabilità |
 
-## 35.7 Metrics
-| Metric | B2G Target | Non-Profit Target |
-|--------|-----------|-----------------|
-| Sales cycle | 6-18 months | 2-6 months |
-| Deal size | €10,000-100,000+ | €2,000-20,000 |
-| Win rate | 10-20% | 20-35% |
-| Relationship touchpoints | 15-30 | 8-15 |
+## 35.4 Gestire i Processi di Acquisto Pubblico
 
-## 35.8 Best Practices
-- Start relationship building 6+ months before the buying cycle
-- Attend industry events and government supplier days
-- Get on approved vendor lists early
-- Build champions within the organization
-- Align your messaging with policy priorities
-- Be patient — B2G is a marathon, not a sprint
+**Passi tipici B2G:**
+1. **RFI (Request for Information)**: Rispondere a richieste informative
+2. **RFP (Request for Proposal)**: Presentare proposta formale
+3. **Valutazione**: Commissione valuta le proposte
+4. **Gara**: Eventuale gara d'appalto
+5. **Aggiudicazione**: Contratto firmato
+6. **Implementazione**: Rollout con SLA
+
+**Il tuo ruolo telefonico:**
+- **Pre-RFP**: Costruire relazione, educare il decisore
+- **Durante RFP**: Rispondere a domande, chiarire dubbi
+- **Post-RFP**: Follow-up, supporto implementazione
+
+## 35.5 Obiezioni Specifiche B2G
+
+**"Dobbiamo fare una gara d'appalto"** → "Capisco. Posso aiutarvi a preparare i requisiti? Se AgentBridge è già la soluzione giusta, possiamo aiutarvi a scrivere una RFP che evidenzi i criteri dove siamo forti — self-hosted, privacy, open source."
+
+**"Non abbiamo budget quest'anno"** → "Capisco. Quando si riapre il budget? Posso preparare una proposta per quella finestra. Nel frattempo, c'è un pilota che potreste fare con fondi minimi?"
+
+**"Il fornitore attuale è quello che è"** → "Capisco. Ma il fornitore attuale è self-hosted? I dati restano locali? Con le nuove normative sulla sovranità digitale, AgentBridge potrebbe essere l'opzione più conforme."
+
+## 35.6 Obiezioni Specifiche Non-Profit
+
+**"Non abbiamo soldi"** → "Capisco. Offriamo pricing agevolato per non-profit. E il ROI è comunque positivo — ogni euro speso in admin è un euro tolto alla missione."
+
+**"Il team è volontario"** → "Proprio per questo. I volontari non dovrebbero passare ore su Excel. AgentBridge rende il loro tempo più efficace."
+
+**"Non abbiamo IT"** → "AgentBridge è progettato per essere semplice. Non serve un team IT dedicato. E offriamo supporto completo per l'implementazione."
+
+## 35.7 Costruire Relazioni Istituzionali
+
+**Per B2G e Non-Profit, le relazioni sono tutto:**
+- **Eventi**: Partecipa a conferenze di settore
+- **Referral**: Chiedi ai clienti esistenti di presentarti
+- **Trasparenza**: Sii aperto su cosa puoi e non puoi fare
+- **Pazienza**: I cicli sono lunghi, non forzare
+- **Valore pubblico**: Enfatizza il beneficio per la comunità
 
 ---
 
-## Chapter Summary
-B2G and non-profit sales require patience, compliance awareness, and relationship-building over long cycles. The phone is a relationship tool, not a closing tool.
+## Riepilogo del Capitolo
 
-## Action Items
-- [ ] Research public procurement processes in your target market
-- [ ] Identify non-profit organizations that align with AgentBridge's mission
-- [ ] Build a 12-month B2G relationship-building plan
-- [ ] Create compliance checklists for B2G and non-profit sales
+B2G e Non-Profit richiedono:
+- **Linguaggio adattato**: Formale per B2G, empatico per Non-Profit
+- **Processi lunghi**: Pazienza e follow-up costante
+- **Focus su compliance**: Privacy, sovranità dati, normative
+- **Relazioni**: Costruire fiducia istituzionale
+- **Valore sociale**: Risparmio pubblico, impatto missione
+
+---
+
+## Azioni da Intraprendere
+
+- [ ] Identifica 5 enti pubblici o non-profit nel tuo target
+- [ ] Adatta il tuo messaggio per B2G e Non-Profit
+- [ ] Studia i processi di procurement pubblico nella tua area
+- [ ] Crea una proposta template per non-profit con pricing agevolato
+- [ ] Costruisci una relazione con un referente istituzionale

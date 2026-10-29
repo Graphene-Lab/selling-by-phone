@@ -1,93 +1,142 @@
-# Gestione di un team di vendita telefonica
+# Capitolo 44: Gestire un Team di Vendita Telefonica
 
-## 44.1 Recruitment
-Look for: resilience, coachability, communication skills, hunger, and empathy. Prioritize attitude over experience.
+## 44.1 Struttura del Team
 
-## 44.2 Onboarding
-- Week 1: Product knowledge + compliance
-- Week 2: Methodology + scripts
-- Week 3: Shadowing + role-play
-- Week 4: Supervised live calls
-- Week 5+: Independent with coaching
+**Ruoli tipici in un team di vendita telefonica:**
 
-## 44.3 Goal Setting
-- Individual targets aligned with team goals
-- Activity metrics (calls, connections) + outcome metrics (deals, revenue)
-- Weekly checkpoints, monthly reviews
-- SMART goals with clear timelines
+| Ruolo | Responsabilità |
+|-------|---------------|
+| **SDR (Sales Development Rep)** | Cold call, qualificazione, appointment setting |
+| **AE (Account Executive)** | Demo, proposta, negoziazione, chiusura |
+| **Team Lead** | Coaching, pipeline review, strategia |
+| **Sales Manager** | Target, forecast, performance, hiring |
+| **Customer Success** | Onboarding, retention, upsell |
 
-## 44.4 Incentives
-- Base salary + commission (40-50% variable)
-- Team bonuses for collective targets
-- SPIFs (Special Performance Incentive Funds) for short-term pushes
-- Recognition programs (non-monetary)
+## 44.2 Definire Target e Aspettative
 
-## 44.5 Monitoring
-- Real-time dashboards (calls, connections, pipeline)
-- Call recording review (2-3 per seller per week)
-- CRM activity tracking
-- Weekly 1-on-1 meetings
+**Target chiari per ogni ruolo:**
 
-## 44.6 Effective Meetings
-- **Daily standup** (15 min): Yesterday, today, blockers
-- **Weekly team meeting** (60 min): Metrics, wins, challenges, training
-- **Monthly review** (90 min): Performance, strategy adjustments
-- **Quarterly planning** (half day): Goals, territory, resources
+| Ruolo | Target Giornaliero | Target Mensile |
+|-------|-------------------|---------------|
+| **SDR** | 50 chiamate, 3 appuntamenti | 60 appuntamenti |
+| **AE** | 2 demo, 1 proposta | 20 demo, 10 proposte, 5 chiusure |
+| **Team Lead** | 5 coaching session | 100% pipeline review |
 
-## 44.7 Performance Culture
-- Celebrate wins publicly
-- Address underperformance privately and quickly
-- Create healthy competition (leaderboards, contests)
-- Foster collaboration (shared learning, peer support)
-- Lead by example
+## 44.3 Coaching Telefonico
 
-## 44.8 Burnout Management
-- Monitor for burnout signs (declining performance, negativity, absenteeism)
-- Ensure adequate breaks and vacation
-- Provide mental health resources
-- Rotate tasks to prevent monotony
-- Create a supportive team environment
+**Sessione di coaching (30 min):**
+1. **Ascolto chiamata** (10 min): Ascolta una chiamata del rep
+2. **Feedback** (10 min): Cosa ha funzionato, cosa no
+3. **Skill focus** (5 min): Una skill specifica da migliorare
+4. **Piano azione** (5 min): Cosa fare diversamente nella prossima chiamata
 
-## 44.9 Retention
-- Career development paths (SDR → AE → Team Lead → Manager)
-- Competitive compensation
-- Training and growth opportunities
-- Recognition and appreciation
-- Positive team culture
+**Frequenza**: Almeno 1 sessione a settimana per rep.
 
-## 44.10 Variable Compensation Models
-| Model | Description | Best For |
-|-------|-------------|----------|
-| **Threshold** | Commission starts after hitting minimum | Cost control |
-| **Accelerator** | Higher commission rate above target | Motivating top performers |
-| **Cap** | Maximum commission limit | Budget certainty |
-| **Tiered** | Different rates at different levels | Balanced approach |
+## 44.4 Pipeline Review di Team
 
-## 44.11 The 40-50% Rule
-At least 40-50% of total compensation should be variable (commission-based). This aligns incentives with performance and attracts motivated sellers.
+**Sessione settimanale (60 min):**
+- Ogni rep presenta i propri deal (5 min per rep)
+- Team lead fa domande e challenge
+- Identificare deal a rischio
+- Prioritizzare la settimana
+- Aggiornare forecast
 
-## 44.12 Aligning KPIs with Incentives
-Your incentive plan should reward the behaviors you want:
-- Want more calls? Reward call volume
-- Want better quality? Reward conversion rate
-- Want larger deals? Reward deal size
-- Want retention? Reward renewal rate
-- **Key**: Align what you pay for with what you want
+## 44.5 Motivare il Team
+
+**Tecniche di motivazione:**
+- **Celebra i successi**: Annuncia chiusure, record
+- **Gamification**: Leaderboard, badge, premi
+- **Competizione sana**: Sfide a squadre
+- **Crescita**: Opportunità di sviluppo
+- **Autonomia**: Fidati del team
+- **Feedback positivo**: Non solo critica
+
+## 44.6 Gestire Performance Basse
+
+**Piano di miglioramento (30 giorni):**
+1. **Diagnosi**: Qual è il problema? (Volume? Skill? Atteggiamento?)
+2. **Piano**: Azioni specifiche per 30 giorni
+3. **Supporto**: Coaching, training, affiancamento
+4. **Check-point**: Review settimanale
+5. **Decisione**: Al giorno 30 — migliora o si separa
+
+## 44.7 Reclutare Venditori Telefonici
+
+**Cosa cercare:**
+- **Resilienza**: Non si abbatte dal rifiuto
+- **Comunicazione**: Parla bene, ascolta meglio
+- **Autonomia**: Si auto-motiva
+- **Curiosità**: Vuole imparare
+- **Competitività**: Vuole vincere
+- **Empatia**: Capisce gli altri
+
+**Colloquio telefonico di prova:**
+- Simula una cold call
+- Valuta tono, struttura, gestione obiezioni
+- Chiedi: "Cosa faresti diversamente?"
+
+## 44.8 Riunioni di Team
+
+**Daily standup (10 min):**
+- Ieri: Cosa ho fatto
+- Oggi: Cosa farò
+- Blocchi: Cosa mi ferma
+
+**Weekly team meeting (60 min):**
+- Pipeline review
+- Wins e learnings
+- Strategia settimana
+- Skill development
+
+**Monthly review (90 min):**
+- Risultati vs. target
+- Trend analysis
+- Strategia mese prossimo
+- Team development
+
+## 44.9 Delega e Scaling
+
+**Cosa delegare:**
+- **SDR**: Cold call, qualificazione, scheduling
+- **AgentBridge**: Admin, report, follow-up email
+- **Team Lead**: Coaching, review, escalation
+
+**Cosa NON delegare:**
+- Chiusura di deal strategici
+- Relazioni chiave
+- Strategia di pricing
+- Hiring
+
+## 44.10 Strumenti per il Team
+
+**Tech stack per team di vendita telefonica:**
+- **CRM**: HubSpot, Salesforce, Pipedrive
+- **Call tracking**: Numeri tracciati, registrazione
+- **AgentBridge**: Automazione admin, report, follow-up
+- **Communication**: Slack, Teams
+- **Scheduling**: Calendly, Google Calendar
+- **Analytics**: Dashboard, reporting
 
 ---
 
-## Chapter Summary
-Managing a phone sales team requires:
-- Right people (recruitment)
-- Right training (onboarding)
-- Right goals (SMART targets)
-- Right incentives (aligned compensation)
-- Right monitoring (data + coaching)
-- Right culture (celebration + support)
+## Riepilogo del Capitolo
 
-## Action Items
-- [ ] Review your team's compensation structure
-- [ ] Create a 5-week onboarding program
-- [ ] Set up weekly 1-on-1 coaching cadence
-- [ ] Build a performance dashboard
-- [ ] Design a recognition program
+Gestire un team di vendita telefonica:
+- **Struttura**: Ruoli chiari (SDR, AE, Lead, Manager)
+- **Target**: Specifici, misurabili, realistici
+- **Coaching**: Settimanale, strutturato
+- **Pipeline review**: Regolare, con challenge
+- **Motivazione**: Celebra, gamifica, fai crescere
+- **Performance**: Piano di miglioramento per chi è sotto
+- **Reclutare**: Cerca resilienza e comunicazione
+- **Strumenti**: CRM, AgentBridge, tracking
+
+---
+
+## Azioni da Intraprendere
+
+- [ ] Definisci ruoli e target per il tuo team
+- [ ] Crea un calendario di coaching settimanale
+- [ ] Stabilisci una pipeline review strutturata
+- [ ] Crea un piano di motivazione e gamification
+- [ ] Identifica 1 skill da sviluppare nel team questo mese

@@ -1,124 +1,178 @@
-# Domande di scoperta
+# Capitolo 21: Domande di Scoperta
 
-## 21.1 Open Questions
+## 21.1 Tipi di Domande
 
-Open questions invite elaboration. They start with What, How, Why, Tell me about, Describe. They give the prospect space to share their situation in their own words.
+Le domande sono il tuo strumento più potente al telefono. Non puoi vendere senza fare domande. Ma non tutte le domande sono uguali.
 
-**Open questions for AgentBridge:**
-- "Tell me about your admin team. What does a typical day look like?"
-- "How do you currently handle document creation and processing?"
-- "What's the most time-consuming part of your operations?"
-- "How do you see your admin needs changing over the next year?"
-- "What would your ideal workflow look like if you could design it from scratch?"
+**Tipi di domande per la vendita telefonica:**
 
-💡 **Tip**: Open questions are your primary discovery tool. Use them to get the prospect talking. The more they talk, the more you learn, and the more they invest in the conversation.
+| Tipo | Scopo | Esempio |
+|------|-------|---------|
+| **Aperta** | Esplorare, ottenere informazioni ricche | "Come gestite attualmente la creazione documenti?" |
+| **Chiusa** | Confermare, ottenere un sì/no | "Avete 8 persone nel team admin?" |
+| **Guidata** | Portare verso una conclusione | "Se poteste risparmiare 4 ore al giorno, cosa fareste con quel tempo?" |
+| **Ipnotica** | Far visualizzare il futuro | "Immagina di aprire il laptop lunedì e tutti i report sono già fatti. Come si sente?" |
+| **Sondaggio** | Andare più profondo | "Cosa intendi esattamente per 'troppo tempo'?" |
+| **Riflesso** | Farli sentire ascoltati | "Quindi mi stai dicendo che il team è frustrato?" |
+| **Contraria** | Testare assunzioni | "Cosa succederebbe se non faceste niente?" |
+| **Calibrazione** | Misurare il dolore | "Da 1 a 10, quanto è frustrante questo problema?" |
 
-## 21.2 Closed Questions
+## 21.2 Sequenza di Scoperta
 
-Closed questions get a yes/no answer. They are useful for confirming specific facts or getting commitments, but overusing them makes the conversation feel like an interrogation.
+**La sequenza di scoperta efficace:**
 
-**Closed questions for AgentBridge:**
-- "Do you have a budget for automation tools?"
-- "Is data privacy a concern for your company?"
-- "Are you currently using any AI tools?"
-- "Is this something you'd like to explore further?"
-- "Does that make sense?"
+1. **Situazione** (fondo) → 2. **Problema** (dolore) → 3. **Implicazione** (urgenza) → 4. **Need-payoff** (soluzione)
 
-⚠️ **Warning**: Do not string together multiple closed questions. "Do you have X? And Y? And Z?" feels like a checklist. Mix open and closed questions for a natural flow.
+Questa è la sequenza SPIN, ma funziona con qualsiasi framework. La chiave è: mai presentare la soluzione prima di aver completato i passi 1-3.
 
-## 21.3 Implication Questions
+## 21.3 Domande di Scoperta per AgentBridge
 
-Implication questions explore the consequences of the problem. They make the problem feel bigger and more urgent.
+**Situazione:**
+- "Quante persone gestiscono compiti amministrativi?"
+- "Come è strutturato il vostro attuale workflow di documenti?"
+- "Quali tool state usando attualmente?"
+- "Come gestite la generazione di report?"
 
-**Implication questions for AgentBridge:**
-- "If your team spends 4 hours a day on manual work, what does that mean for your client response times?"
-- "How does slow document processing affect your customer satisfaction scores?"
-- "What happens when your admin person calls in sick? Is all the knowledge locked in their head?"
-- "If you grow 20% next year, do you need to grow your admin team 20% too? What does that cost?"
-- "How does this inefficiency affect your ability to compete with more automated competitors?"
+**Problema:**
+- "Quanto tempo spende il team su compiti ripetitivi?"
+- "Cosa vi frustra di più del processo attuale?"
+- "Dove si verificano più errori?"
+- "Cosa causa più ritardi?"
 
-## 21.4 Need Questions
+**Implicazione:**
+- "Come influisce questo sui vostri tempi di risposta ai clienti?"
+- "Cosa succede se continuate a scalare senza cambiare il processo?"
+- "Quanto vi sta costando questo in euro all'anno?"
+- "Come influisce sul morale del team?"
 
-Need questions get the prospect to articulate what they want and need. They bridge from problem to solution.
+**Need-payoff:**
+- "Se poteste eliminare l'80% di quel lavoro manuale, cosa fareste con il tempo recuperato?"
+- "Come si sentirebbe il team se non dovessero più fare data entry?"
+- "Cosa significherebbe per la vostra scalabilità se l'admin non fosse più un collo di bottiglia?"
+- "Se poteste avere report accurati generati automaticamente ogni mattina, quanto varrebbe?"
 
-**Need questions for AgentBridge:**
-- "What would it mean for your team if they could get 4 hours back every day?"
-- "How important is it to you that your data stays on your own servers?"
-- "What would you prioritize: saving time, reducing errors, or cutting costs?"
-- "If you could automate one thing about your admin process, what would it be?"
-- "What would a successful automation project look like to you?"
+## 21.4 Domande di Qualificazione
 
-## 21.5 Discovery Sequence
+**Budget:**
+- "Avete un budget allocato per risolvere questo?"
+- "Se il ROI fosse chiaro, riuscireste a farlo approvare?"
+- "C'è una fascia di budget con cui state lavorando?"
 
-A natural discovery sequence flows from broad to specific:
+**Autorità:**
+- "Sei tu il decisore per tool come questo?"
+- "Chi altro deve essere coinvolto?"
+- "Come viene tipicamente presa una decisione come questa?"
 
-1. **Broad context**: "Tell me about your admin operations"
-2. **Specific pain**: "What's the most frustrating part?"
-3. **Quantify**: "How many hours per day does that take?"
-4. **Implication**: "What does that cost you? How does it affect [X]?"
-5. **Need**: "What would it be worth to solve this?"
-6. **Decision**: "How would a decision like this get made?"
+**Timeline:**
+- "Quando vorreste che questo fosse implementato?"
+- "C'è una scadenza che guida questa decisione?"
+- "È una priorità per questo trimestre?"
 
-🤖 **AgentBridge Example — Full Discovery Sequence:**
+**Fit:**
+- "Il vostro team admin è il tipo che adotterebbe un tool AI, o c'è resistenza al cambiamento?"
+- "Avete l'infrastruttura IT per supportare un tool self-hosted?"
+- "Il vostro volume di documenti è sufficiente per giustificare l'automazione?"
 
-"Tell me about your admin team." → "8 people, handling invoices, reports, emails, data entry."
-"What's the most frustrating part?" → "The repetitive stuff. Copy-paste between systems. Formatting reports."
-"How many hours per day does that take?" → "Probably 3-4 hours per person."
-"What does that mean for your team's morale?" → "They hate it. They feel like robots."
-"What would it be worth to eliminate that?" → "A lot. They'd be happier, more productive."
-"How would a decision like this get made?" → "I'd propose it to the CEO. If the ROI is clear, he'd approve."
+## 21.5 Domande di Scoperta Profonda
 
-## 21.6 Listening and Notes
+**Il "5 Perché" adattato per telefono:**
+- "Perché è un problema?" → "Perché causa ritardi?" → "Perché i ritardi sono costosi?" → "Perché i costi sono inaccettabili?" → "Perché ora?"
 
-During discovery, your primary job is to LISTEN. Take notes on:
-- Key facts (numbers, names, processes)
-- Pain points (what frustrates them)
-- Emotions (how they feel about the problem)
-- Decision process (who decides, how, when)
-- Language they use (mirror their words back)
+**Domande emotive:**
+- "Come ti FA SENTIRE questo problema?"
+- "Cosa ti tiene sveglio la notte riguardo a questo?"
+- "Se risolvessi questo, cosa cambierebbe per te personalmente?"
 
-## 21.7 Uncomfortable Questions
+**Domande di visione:**
+- "Se potessi disegnare il workflow perfetto, come sarebbe?"
+- "Cosa significa 'successo' per te su questo?"
+- "Tra 12 mesi, come vuoi che sia il tuo team admin?"
 
-Some discovery questions feel uncomfortable but are necessary. Deliver them with confidence and explain why you are asking.
+## 21.6 Ascolto Attivo Durante la Scoperta
 
-**Uncomfortable questions:**
-- "What's your budget for this?" → "I ask because I want to make sure I'm not wasting your time if the budget isn't there."
-- "Are you the decision maker?" → "I want to make sure I'm talking to the right person before we go deeper."
-- "What happens if you don't solve this?" → "I ask because the cost of inaction is often higher than the cost of the solution."
-- "Why haven't you solved this already?" → "I'm curious what's been blocking you. Maybe I can help remove that blocker."
+**Tecniche di ascolto attivo:**
+- **Verbalizza**: "Mmh", "Capisco", "Sì" — mostra che sei presente
+- **Parafrasa**: "Quindi mi stai dicendo che..."
+- **Sonda**: "Puoi dirmi di più su quello?"
+- **Silenzio**: Dopo che parlano, aspetta 2 secondi prima di rispondere
+- **Nota**: Scrivi parole esatte che usano (poi ripetile nella presentazione)
 
-## 21.8 Needs Mapping
+## 21.7 Trappole di Scoperta
 
-After discovery, map what you learned:
+| Trappola | Come Evitarla |
+|----------|--------------|
+| **Interrogatorio** | Non fare domande a raffica. Fai una domanda, ascolta, rispondi, poi un'altra domanda. |
+| **Prematurità** | Non presentare la soluzione prima di aver completato la scoperta. |
+| **Superficialità** | Non fermarti alla prima risposta. Sonda più a fondo. |
+| **Guidare troppo** | Non fare domande che presuppongono la risposta. |
+| **Non ascoltare** | Se stai pensando alla prossima domanda mentre parlano, non stai ascoltando. |
+| **Troppe domande di situazione** | Non sprecare tempo su info che puoi trovare online. |
 
-| Category | What You Learned | AgentBridge Feature |
-|----------|-----------------|-------------------|
-| **Pain** | 4 hrs/day manual work | Document automation |
-| **Emotion** | Team feels like robots | Meaningful work focus |
-| **Need** | Save time, reduce errors | AI accuracy + speed |
-| **Constraint** | Budget limited | ROI justification |
-| **Decision** | CEO approves | Prepare executive summary |
-| **Timeline** | Q3 implementation | Start demo now |
+## 21.8 Scoperta in 5 Minuti
+
+**Template di scoperta compressa (per chiamate brevi):**
+
+1. "Quante persone admin?" (10 sec)
+2. "Quanto tempo su lavoro ripetitivo?" (30 sec)
+3. "Come vi frustra?" (30 sec)
+4. "Cosa costa in euro?" (30 sec)
+5. "Chi decide?" (20 sec)
+6. "Budget disponibile?" (20 sec)
+7. "Timeline?" (20 sec)
+8. "Fissiamo una demo?" (20 sec)
+
+**Totale: ~3 minuti di domande, 2 minuti di conversazione naturale**
+
+## 21.9 Scoperta per Ruolo
+
+**Per CEO:**
+- "Qual è la vostra priorità di crescita quest'anno?"
+- "Come scalate le operazioni senza far esplodere i costi?"
+- "L'efficienza operativa è un focus strategico per voi?"
+
+**Per COO:**
+- "Qual è il vostro collo di bottiglia operativo principale?"
+- "Come misurate la produttività del team admin?"
+- "Cosa vi impedisce di scalare più velocemente?"
+
+**Per CFO:**
+- "Come crescono i costi admin con la crescita dei ricavi?"
+- "Avete un costo target per transazione/documento?"
+- "Quanto varrebbe rompere il legame costi-ricavi?"
+
+**Per IT Manager:**
+- "Qual è la vostra policy su tool AI cloud-based?"
+- "Avete preoccupazioni su dove vanno i dati?"
+- "Che infrastruttura avete per un tool self-hosted?"
+
+## 21.10 Documentare la Scoperta
+
+Dopo ogni chiamata, documenta:
+- **Chi**: Nome, ruolo, livello di influenza
+- **Cosa**: Problemi, bisogni, metriche
+- **Quando**: Timeline, urgenza, scadenze
+- **Come**: Processo decisionale, budget, criteri
+- **Citazioni esatte**: Parole che hanno usato (poi ripetile)
+- **Prossimo passo**: Cosa è stato concordato, quando
 
 ---
 
-## Chapter Summary
+## Riepilogo del Capitolo
 
-Discovery questions are the heart of consultative selling:
-- **Open questions** for exploration
-- **Closed questions** for confirmation
-- **Implication questions** for urgency
-- **Need questions** for solution alignment
-- **Sequence** from broad to specific
-- **Listen** more than you talk
-- **Map** what you learn to your solution
+La scoperta è il cuore della vendita telefonica:
+- **Tipi di domande**: Aperte, chiuse, guidate, ipnotiche, di sondaggio, riflesso, contrarie, calibrazione
+- **Sequenza**: Situazione → Problema → Implicazione → Need-payoff
+- **Qualificazione**: Budget, Autorità, Timeline, Fit
+- **Profondità**: 5 Perché, domande emotive, domande di visione
+- **Ascolto attivo**: Verbalizza, parafrasa, sonda, silenzio, nota
+- **Documentazione**: Chi, cosa, quando, come, citazioni, prossimo passo
 
 ---
 
-## Action Items
+## Azioni da Intraprendere
 
-- [ ] Write 5 open questions for AgentBridge discovery
-- [ ] Practice the full discovery sequence with a colleague
-- [ ] Create a needs-mapping template for your CRM
-- [ ] Practice asking "uncomfortable" questions with confidence
-- [ ] Record a call and count: how many questions did you ask vs. statements?
+- [ ] Scrivi 10 domande di scoperta per AgentBridge (2 per ogni tipo)
+- [ ] Pratica la sequenza SPIN con un collega
+- [ ] Crea una "domanda emotiva" che funziona per te
+- [ ] Costruisci un template di documentazione scoperta per il CRM
+- [ ] Pratica la "scoperta in 5 minuti" per chiamate brevi

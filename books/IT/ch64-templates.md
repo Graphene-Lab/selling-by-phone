@@ -1,111 +1,204 @@
-# Modelli e template
+# Capitolo 64: Template per la Vendita Telefonica
 
-## 64.1 Customer Profile Template
-| Field | Details |
-|-------|---------|
-| **Company** | Name, industry, size, location |
-| **Contact** | Name, title, phone, email, LinkedIn |
-| **ICP Fit** | Score (1-100), key factors |
-| **Pain Points** | Top 3 pains identified |
-| **Current Tools** | What they use now |
-| **Budget** | Estimated / Confirmed |
-| **Decision Maker** | Name, role, contact |
-| **Decision Process** | Steps, timeline, stakeholders |
-| **Buying Signals** | What triggered the outreach |
-| **Next Step** | Action, owner, date |
+## 64.1 Template Email di Follow-Up Post-Cold Call
 
-## 64.2 Base Script Template
-```
-OPENER: "Hi [Name], this is [You] from [Company]. [Pattern interrupt]."
-REASON: "I'm calling because [specific signal/reason]."
-PERMISSION: "Can I take [X] seconds to explain?"
-DISCOVERY: "[Open question about their situation]"
-VALUE: "We help [ICP] achieve [specific benefit] through [solution]."
-OBJECTION: "[Prepared response to most likely objection]"
-CLOSE: "Can I [specific next step] on [specific day/time]?"
-```
+**Oggetto**: Grazie per la chiamata, [Nome]
 
-## 64.3 Objection Grid
-| Objection | Response | Follow-Up |
-|-----------|----------|-----------|
-| "Too expensive" | "Compared to [alternative], it's [X%] cheaper" | ROI calculation |
-| "No time" | "That's why this helps — saves [X] hours/week" | 30-second pitch |
-| "Not interested" | "Is it timing or fit? Can I call back in [X]?" | Nurture sequence |
-| "Already have X" | "What do you wish X did differently?" | Differentiation |
-| "Send email" | "Happy to. What's your main question?" | Tailored email |
-| "Need to think" | "What specifically do you need to think about?" | Address concern |
+Ciao [Nome],
 
-## 64.4 Call Report Template
-| Field | Details |
-|-------|---------|
-| **Date/Time** | |
-| **Contact** | |
-| **Outcome** | Connected / Voicemail / Rejected / Meeting booked |
-| **Duration** | |
-| **Key Notes** | |
-| **Objections Raised** | |
-| **Next Step** | |
-| **Follow-Up Date** | |
-| **Self-Assessment** | What went well / What to improve |
+grazie per aver preso la mia chiamata oggi. Mi scuso per l'interruzione, ma spero di averti dato un'idea di valore.
 
-## 64.5 Weekly Plan Template
-| Day | Call Block 1 (9-11) | Call Block 2 (11:30-13) | Call Block 3 (14-15:30) | Admin |
-|-----|---------------------|-------------------------|-------------------------|-------|
-| Mon | | | | |
-| Tue | | | | |
-| Wed | | | | |
-| Thu | | | | |
-| Fri | | | | |
+Come ti ho accennato, AgentBridge è un assistente AI self-hosted che automatizza l'80% del lavoro amministrativo. Per un'azienda come [Azienda], questo significa:
+- [X] ore risparmiate a settimana
+- [X]€ di produttività recuperata all'anno
+- Dati completamente privati (niente cloud)
 
-## 64.6 KPI Dashboard Template
-| Metric | This Week | Target | Trend |
-|--------|-----------|--------|-------|
-| Calls made | | | |
-| Connect rate | | | |
-| Appointments booked | | | |
-| Demos held | | | |
-| Deals closed | | | |
-| Revenue | | | |
-| Pipeline value | | | |
+Come concordato, ti mando:
+- [Allegato 1: One-pager AgentBridge]
+- [Allegato 2: Calcolatore ROI]
 
-## 64.7 Business Case Template
-| Section | Content |
-|---------|---------|
-| **Problem** | [Customer's specific problem] |
-| **Current Cost** | [What the problem costs them now] |
-| **Solution** | [AgentBridge capabilities] |
-| **Investment** | [Cost of AgentBridge] |
-| **ROI** | [Return calculation] |
-| **Payback Period** | [Time to break even] |
-| **Risk of Inaction** | [Cost of not solving] |
-| **Timeline** | [Implementation plan] |
+Prossimo passo: demo di 15 minuti [giorno] alle [ora]. Ti va?
 
-## 64.8 Coaching Plan Template
-| Field | Details |
-|-------|---------|
-| **Seller** | |
-| **Period** | |
-| **Strengths** | |
-| **Areas for Improvement** | |
-| **Focus Skill** | |
-| **Practice Exercises** | |
-| **Target Metrics** | |
-| **Review Date** | |
-| **Progress Notes** | |
+Se hai domande nel frattempo, chiamami pure: [numero].
 
-## 64.9 Do-Not-Call Register
-| Name/Number | Date Added | Reason | Source |
-|-------------|-----------|--------|--------|
-| | | | |
+A presto,
+[Tuo nome]
+Graphene Lab
+[numero] | [email]
+
+## 64.2 Template Email Post-Demo
+
+**Oggetto**: Demo AgentBridge — Prossimi passi
+
+Ciao [Nome],
+
+grazie per il tempo di oggi. Spero che la demo di AgentBridge ti abbia mostrato come può trasformare le operazioni amministrative di [Azienda].
+
+**Cosa hai visto:**
+- Creazione documenti in 30 secondi (fatture, report, contratti)
+- Automazione email e scheduling
+- Telefonia SIP con AI
+- Architettura self-hosted (dati 100% locali)
+
+**Prossimi passi:**
+1. Ti mando la proposta entro [data]
+2. Tu la rivedi con [CFO/decisore]
+3. Ne parliamo [giorno] alle [ora]
+
+**Allegati:**
+- Proposta formale
+- Case study [settore]
+- Calcolatore ROI personalizzato
+
+Se hai domande, sono a disposizione.
+
+A presto,
+[Tuo nome]
+
+## 64.3 Template Email di Proposta
+
+**Oggetto**: Proposta AgentBridge per [Azienda]
+
+Ciao [Nome],
+
+come concordato, ti invio la proposta per AgentBridge.
+
+**Il problema:**
+[Azienda] spende [X] ore a settimana su lavoro amministrativo manuale.
+
+**La soluzione:**
+AgentBridge automatizza l'80% di quel lavoro, sul vostro hardware.
+
+**L'investimento:**
+- Licenza AgentBridge: [X]€
+- Setup e implementazione: [X]€
+- Supporto (1 anno): incluso
+- **Totale: [X]€**
+
+**Il ritorno:**
+- Ore risparmiate: [X] ore/settimana
+- Risparmio annuale: [X]€
+- ROI: [X]x
+- Periodo di rientro: [X] settimane
+
+**Cosa include:**
+- [Funzionalità 1]
+- [Funzionalità 2]
+- [Funzionalità 3]
+- Formazione team
+- Supporto dedicato
+
+**Validità proposta**: 30 giorni
+
+Per accettare: rispondi a questa email o firma il contratto allegato.
+
+A presto,
+[Tuo nome]
+
+## 64.4 Template Voicemail
+
+**Voicemail 1 (cold call):**
+"Ciao [Nome], sono [Tu] di Graphene Lab. Ti chiamo perché [motivo specifico]. Ti mando un'email con i dettagli. Se vuoi parlare prima, il mio numero è [numero]. A presto."
+
+**Voicemail 2 (follow-up):**
+"Ciao [Nome], sono [Tu] di Graphene Lab. Secondo tentativo — so che sei occupato. Ti ho mandato un'email [giorno]. Se è rilevante, chiamami. Se non lo è, dimmelo e non richiamerò. Numero: [numero]. Grazie!"
+
+**Voicemail 3 (finale):**
+"Ciao [Nome], ultima chiamata da parte mia. Sono [Tu] di Graphene Lab. Se in futuro avrai bisogno di [soluzione], il mio numero è [numero]. Buona fortuna con [qualcosa di specifico loro]."
+
+## 64.5 Template LinkedIn Message
+
+**Connessione:**
+"Ciao [Nome], mi sono imbattuto nel tuo profilo e ho pensato che potremmo essere utili l'un l'altro. Lavoro in [settore] e mi interessa connettermi con professionisti come te. A presto!"
+
+**Post-connessione:**
+"Grazie per la connessione, [Nome]! Ho visto che [Azienda] sta [segnale]. Lavoro con aziende come la vostra su [soluzione]. Saresti aperto a una chiacchierata di 10 minuti?"
+
+## 64.6 Template Agenda Demo
+
+**Agenda Demo AgentBridge (15 min)**
+
+**Partecipanti:**
+- [Nome], [Ruolo], [Azienda]
+- [Tuo nome], Graphene Lab
+
+**Obiettivo**: Mostrare come AgentBridge automatizza il lavoro admin di [Azienda]
+
+**Agenda:**
+1. Recap esigenze (2 min)
+2. Demo: Creazione documenti (5 min)
+3. Demo: Automazione email/report (4 min)
+4. Demo: Telefonia SIP (2 min)
+5. Q&A (2 min)
+
+**Preparazione richiesta:**
+- [ ] Esempio documento reale (se possibile)
+- [ ] Connessione internet stabile
+- [ ] Auricolari
+
+## 64.7 Template Report Settimanale
+
+**Report Settimanale — [Nome] — [Settimana]**
+
+| Metrica | Questo Mese | Target |
+|---------|-------------|--------|
+| Chiamate fatte | [X] | [X] |
+| Conversazioni | [X] | [X] |
+| Appuntamenti | [X] | [X] |
+| Demo | [X] | [X] |
+| Proposte | [X] | [X] |
+| Chiusure | [X] | [X] |
+| Revenue | [X]€ | [X]€ |
+
+**Highlights:**
+- [Successo della settimana]
+
+**Sfide:**
+- [Problema incontrato]
+
+**Prossima settimana:**
+- [Focus]
+- [Obiettivo]
+
+## 64.8 Template Handoff SDR→AE
+
+**Handoff: [Nome Prospect]**
+
+| Campo | Dettaglio |
+|-------|-----------|
+| **Nome** | [Nome Cognome] |
+| **Ruolo** | [Ruolo] |
+| **Azienda** | [Azienda] |
+| **Telefono** | [Numero] |
+| **Email** | [Email] |
+| **MEDDIC** | [X/6] |
+| **Pain** | [Descrizione dolore] |
+| **Budget** | [Confermato/Da confermare] |
+| **Decisore** | [Chi] |
+| **Obiezioni** | [Lista] |
+| **Next step** | [Demo giorno/ora] |
+| **Temperatura** | [Caldo/Tiepido/Freddo] |
+| **Note** | [Contesto aggiuntivo] |
 
 ---
 
-## Chapter Summary
-Templates save time and ensure consistency. Use them as starting points and customize for your specific needs. Keep them accessible during every call session.
+## Riepilogo del Capitolo
 
-## Action Items
-- [ ] Create these templates in your CRM or document system
-- [ ] Customize them for AgentBridge specifically
-- [ ] Share with your team for consistency
-- [ ] Review and update quarterly
-- [ ] Use them in every call block
+Template pronti:
+- **Email follow-up**: Post-cold call, post-demo
+- **Proposta**: Con ROI e prossimi passi
+- **Voicemail**: 3 versioni (primo, secondo, finale)
+- **LinkedIn**: Connessione e follow-up
+- **Agenda demo**: Strutturata, 15 min
+- **Report settimanale**: KPI e highlights
+- **Handoff SDR→AE**: Completo, strutturato
+
+---
+
+## Azioni da Intraprendere
+
+- [ ] Personalizza ogni template per il tuo stile
+- [ ] Salva i template nel tuo CRM/email
+- [ ] Usa AgentBridge per generare email personalizzate
+- [ ] Aggiorna i template mensilmente
+- [ ] Condividi i template con il team

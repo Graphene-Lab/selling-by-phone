@@ -1,92 +1,119 @@
-# Glossaire
+# Chapitre 62 : Glossaire de la Vente Téléphonique
 
-## 62.1 Sales Terms
-| Term | Definition |
-|------|-----------|
-| **AE** | Account Executive — the closer |
-| **BANT** | Budget, Authority, Need, Timeline — qualification framework |
-| **B2B** | Business to Business |
-| **B2C** | Business to Consumer |
-| **CAC** | Customer Acquisition Cost |
-| **Champion** | Internal advocate for your solution |
-| **Close rate** | Percentage of deals that close |
-| **Cold call** | Call to someone with no prior relationship |
-| **Economic Buyer** | Person who controls the budget |
-| **ICP** | Ideal Customer Profile |
-| **Lead** | Potential customer |
+## 62.1 Termes de Vente
+
+| Terme | Définition |
+|-------|------------|
+| **AE (Account Executive)** | Vendeur qui clôture des deals |
+| **ACV (Annual Contract Value)** | Valeur annuelle du contrat |
+| **BANT** | Budget, Authority, Need, Timeline — framework de qualification |
+| **BATNA** | Best Alternative to Negotiated Agreement |
+| **CAC (Customer Acquisition Cost)** | Coût pour acquérir un client |
+| **Champion** | Contact interne qui soutient la vente |
+| **Close rate** | % de deals closés vs. totaux |
+| **Cold call** | Appel à un prospect sans contact précédent |
+| **Discovery** | Phase de découverte des besoins du prospect |
+| **Economic Buyer** | Qui contrôle le budget et décide |
+| **Follow-up** | Contact suivant le premier appel |
+| **Funnel** | Le parcours du prospect du lead à la clôture |
+| **Handoff** | Passage d'un lead entre rôles (SDR→AE) |
+| **ICP (Ideal Customer Profile)** | Profil du client idéal |
+| **Lead** | Contact potentiel |
+| **LTV (Lifetime Value)** | Valeur totale du client dans le temps |
 | **MEDDIC** | Metrics, Economic Buyer, Decision Criteria, Decision Process, Identify Pain, Champion |
-| **Pipeline** | All open opportunities |
-| **Prospect** | Potential customer being pursued |
-| **SDR** | Sales Development Representative |
+| **Objection** | Résistance soulevée par le prospect |
+| **Opportunity** | Lead qualifié avec potentiel de clôture |
+| **Pipeline** | Ensemble de tous les deals actifs |
+| **Proposal** | Offre formelle envoyée au prospect |
+| **Qualification** | Déterminer si un lead est un fit |
+| **Referral** | Introduction par un client ou contact |
+| **SDR (Sales Development Rep)** | Qui génère et qualifie les leads |
 | **SPIN** | Situation, Problem, Implication, Need-payoff |
-| **Warm call** | Call to someone with prior contact/interest |
-| **Win rate** | Percentage of opportunities that close successfully |
+| **Upsell** | Vendre un produit/service supérieur |
+| **Win rate** | % de deals gagnés |
 
-## 62.2 Phone Terms
-| Term | Definition |
-|------|-----------|
-| **Connect rate** | Percentage of calls that reach a person |
-| **DTMF** | Dual-Tone Multi-Frequency (phone keypad tones) |
-| **Gatekeeper** | Person who blocks access to decision maker |
-| **IVR** | Interactive Voice Response (automated phone menu) |
-| **Pattern interrupt** | Technique to break autopilot rejection |
-| **SIP** | Session Initiation Protocol (VoIP signaling) |
-| **Talk-to-listen ratio** | Proportion of time talking vs. listening |
+## 62.2 Termes Téléphoniques
+
+| Terme | Définition |
+|-------|------------|
+| **Answer rate** | % d'appels qui reçoivent une réponse |
+| **Connect rate** | % d'appels qui atteignent le décideur |
+| **Dialer** | Système pour faire des appels en batch |
+| **Gatekeeper** | Qui filtre les appels (secrétaire, standard) |
+| **Hang-up rate** | % d'appels interrompus prématurément |
+| **IVR** | Interactive Voice Response — menu téléphonique automatique |
+| **Line busy** | Ligne occupée |
+| **No-show** | Rendez-vous non honoré |
+| **Pattern interrupt** | Technique pour casser le pilote automatique |
+| **Power hour** | Heure de maximum de productivité d'appel |
+| **Show rate** | % de rendez-vous où le prospect se présente |
+| **Talk ratio** | Proportion temps parlé vous vs. prospect |
+| **Voicemail** | Message vocal laissé quand ils ne répondent pas |
+| **Warm call** | Appel à un prospect avec contact précédent |
+
+## 62.3 Termes IA et Technologie
+
+| Terme | Définition |
+|-------|------------|
+| **AI (Artificial Intelligence)** | Intelligence artificielle |
+| **CI (Conversation Intelligence)** | Analyse IA des conversations |
+| **Deterministic memory** | Mémoire qui produit toujours le même output pour le même input |
+| **GDPR** | Règlement européen sur la protection des données |
+| **Hallucination** | Output erroné/inventé d'une IA |
+| **LLM (Large Language Model)** | Modèle linguistique de grande taille |
+| **NLP** | Natural Language Processing |
+| **Self-hosted** | Logiciel exécuté sur son propre matériel, pas cloud |
+| **SIP** | Session Initiation Protocol — protocole de téléphonie IP |
 | **VoIP** | Voice over Internet Protocol |
 
-## 62.3 Acronyms
-| Acronym | Full Form |
-|---------|-----------|
-| **AI** | Artificial Intelligence |
-| **CRM** | Customer Relationship Management |
-| **GDPR** | General Data Protection Regulation |
+## 62.4 Termes de Métriques
+
+| Terme | Définition |
+|-------|------------|
+| **Conversion rate** | % qui passe d'une phase à la suivante |
+| **Forecast** | Prévision de revenue futur |
 | **KPI** | Key Performance Indicator |
-| **LTV** | Lifetime Value |
-| **NPS** | Net Promoter Score |
-| **OKR** | Objectives and Key Results |
-| **ROI** | Return on Investment |
-| **ROC** | Registro Pubblico delle Opposizioni |
-| **SaaS** | Software as a Service |
-| **SLA** | Service Level Agreement |
-| **TTS** | Text-to-Speech |
+| **Pipeline coverage** | Pipeline total / Target revenue |
+| **Pipeline velocity** | Vitesse de génération revenue |
+| **Quota** | Target de vente |
+| **Ramp-up** | Période pour atteindre pleine productivité |
+| **Run rate** | Rythme actuel de revenue |
+| **Sales cycle** | Temps moyen pour clôturer un deal |
+| **Win rate** | % de deals gagnés vs. totaux |
 
-## 62.4 Metrics
-| Metric | Definition |
-|--------|-----------|
-| **Conversion rate** | Deals closed / Total opportunities |
-| **Pipeline velocity** | Speed at which deals move through pipeline |
-| **Sales cycle** | Time from first contact to close |
-| **Churn rate** | Percentage of customers lost per period |
-| **Expansion revenue** | Revenue from existing customers beyond renewal |
-| **Net Revenue Retention** | Revenue retained from existing customers (including expansion) |
+## 62.5 Termes de Stratégie
 
-## 62.5 Regulatory
-| Term | Definition |
-|------|-----------|
-| **Consent** | Permission to contact or process data |
-| **Do-Not-Call** | Registry of people who opted out of calls |
-| **Opt-in** | Explicit agreement to receive communications |
-| **Opt-out** | Explicit request to stop receiving communications |
-| **Legitimate interest** | Legal basis for processing without explicit consent |
-
-## 62.6 Artificial Intelligence
-| Term | Definition |
-|------|-----------|
-| **Agentic AI** | AI that acts autonomously to achieve goals |
-| **Deterministic memory** | AI memory that retrieves exact context without guessing |
-| **Hallucination** | AI generating false information confidently |
-| **LLM** | Large Language Model |
-| **STT** | Speech-to-Text |
-| **TTS** | Text-to-Speech |
-| **VAD** | Voice Activity Detection |
-| **Whisper** | Open-source speech recognition model |
+| Terme | Définition |
+|-------|------------|
+| **ABM/ABS** | Account-Based Marketing/Selling |
+| **Challenger Sale** | Approche de vente qui enseigne et défie |
+| **Consultative selling** | Vente consultative |
+| **Gap Selling** | Vendre en comblant le gap entre état actuel et désiré |
+| **Inbound** | Leads qui viennent à vous (contenu, SEO) |
+| **Outbound** | Vous allez vers le prospect (cold call, email) |
+| **RevOps** | Revenue Operations — alignement marketing/sales/CS |
+| **Sandler** | Système de vente basé sur Upfront Contract et negative reverse |
+| **Social selling** | Vente via réseaux sociaux |
+| **SNAP** | Self-focused, New, Agenda-driven, Priority-based |
+| **Solution selling** | Vendre des solutions à des problèmes spécifiques |
+| **Value selling** | Vendre la valeur/ROI, pas le produit |
 
 ---
 
-## Chapter Summary
-This glossary provides quick reference for key terms used throughout the book. Keep it handy during training and reference.
+## Résumé du Chapitre
 
-## Action Items
-- [ ] Review this glossary with your team
-- [ ] Add any terms specific to your organization
-- [ ] Use consistent terminology in all communications
+Ce glossaire couvre les termes essentiels :
+- **Vente** : AE, SDR, pipeline, funnel, close rate
+- **Téléphone** : Cold call, warm call, talk ratio, gatekeeper
+- **IA/Tech** : Self-hosted, SIP, CI, deterministic memory
+- **Métriques** : KPI, forecast, conversion rate, CAC, LTV
+- **Stratégie** : Challenger, Sandler, SPIN, ABS, RevOps
+
+---
+
+## Actions à Entreprendre
+
+- [ ] Familiarisez-vous avec tous les termes
+- [ ] Utilisez les termes correctement dans les conversations
+- [ ] Créez un glossaire personnel avec les termes que vous utilisez le plus
+- [ ] Enseignez les termes aux nouveaux membres de l'équipe

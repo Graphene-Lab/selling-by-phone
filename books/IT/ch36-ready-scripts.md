@@ -1,79 +1,152 @@
-# Script pronti all'uso
+# Capitolo 36: Script Pronti all'Uso
 
-## 36.1 Opening Scripts
+## 36.1 Script Cold Call — PMI
 
-📞 **Script 1: Cold Call — Signal-Based**
-"Hi [Name], this is [You] from Graphene Lab. I noticed [Company] recently [signal: posted admin roles / announced growth / etc.]. I'm calling because we help companies like yours automate 80% of admin work with AI. Do you have two minutes to hear how?"
+📞 **Script completo (60-90 secondi):**
 
-📞 **Script 2: Warm Call — Post-Download**
-"Hi [Name], [You] from Graphene Lab. You downloaded our AI automation guide yesterday — thanks! I wanted to follow up personally. Did you have any questions? And can I ask what prompted you to look into automation?"
+"Ciao [Nome], sono Andrea di Graphene Lab. So di essere un'interruzione — apprezzo che tu abbia risposto.
 
-📞 **Script 3: Referral**
-"Hi [Name], this is [You] from Graphene Lab. [Mutual contact] suggested I reach out. They mentioned you might be dealing with [specific challenge]. Can I share how we helped them?"
+Chiamo perché ho visto che [Azienda] ha [segnale: sta crescendo / ha pubblicato posizioni admin / ecc.]. Aiutiamo aziende come la vostra ad automatizzare l'80% del lavoro amministrativo con AI. Gira sul vostro hardware, quindi i vostri dati restano completamente privati.
 
-## 36.2 Discovery Scripts
+La domanda è: quante ore a settimana il vostro team spende in fatture, report e data entry? [Pausa]
 
-📞 **Discovery Sequence:**
-"Tell me about your admin team. How many people? What do they handle day-to-day? [Listen] How much of that work is repetitive — the kind that doesn't really need a human brain? [Listen] How does that make you feel, knowing you're paying professional salaries for manual work? [Listen] If you could eliminate 80% of that, what would your team do with the freed-up time?"
+Se poteste eliminarne l'80%, cosa fareste con quel tempo? [Pausa]
 
-## 36.3 Presentation Scripts
+Posso mostrarvi una demo di 15 minuti. Giovedì alle 10 o venerdì alle 14 — quale funziona?"
 
-📞 **Value Presentation:**
-"Based on what you've told me — [X] admin staff spending [Y] hours a day on manual work — AgentBridge could automate 80% of that. That's [Z] hours per week freed up. At €[rate]/hour, that's €[total] per year in recovered productivity. And because it's self-hosted, your data never leaves your machine. Does that sound like what you need?"
+## 36.2 Script Cold Call — Studio Professionale
 
-## 36.4 Objection Scripts
+📞 **Script completo (60-90 secondi):**
 
-📞 **"Too expensive":**
-"Compared to what? Hiring one more admin employee costs €30,000-40,000/year. AgentBridge costs a fraction and does the work of 4 people. The ROI is 3 weeks. Is the concern the absolute cost, or the perceived value?"
+"Ciao [Nome], sono Andrea di Graphene Lab. Lavoro con studi professionali come il vostro.
 
-📞 **"We already have a system":**
-"Great. What do you like and dislike about it? [Listen] Have you considered [AgentBridge advantage]? That's where we're fundamentally different."
+So che create centinaia di documenti — fatture, contratti, report — e che ogni ora sprecata in admin è un'ora tolta al cliente. AgentBridge automatizza la creazione documenti mantenendo i dati dei vostri clienti completamente privati. Self-hosted, niente cloud.
 
-📞 **"Send me an email":**
-"Happy to. So I send you the right information — what's your biggest question right now? [Get answer] Great. I'll tailor it to that. When can I follow up? Tuesday?"
+Posso mostrarvi come in 15 minuti. Domani mattina o pomeriggio?"
 
-## 36.5 Closing Scripts
+## 36.3 Script Follow-Up Post-Demo
 
-📞 **Direct close:**
-"Marco, based on everything we've discussed, I believe AgentBridge is a great fit. Can we get the demo scheduled for Thursday at 10?"
+📞 **Script completo (30-60 secondi):**
 
-📞 **Alternative close:**
-"Would you prefer to start with a 2-week pilot or go straight to annual licensing?"
+"Ciao [Nome], sono Andrea di Graphene Lab. Grazie per la demo di ieri. Ho pensato alla vostra conversazione su [argomento specifico] e ho preparato [materiale specifico]. Te l'ho mandato via email.
 
-📞 **Sandler close:**
-"I can tell you're interested, but I sense some hesitation. What would need to be true for you to feel comfortable moving forward?"
+Volevo chiedere — dopo aver visto la demo, ci sono domande che sono emerse con il tuo team? E quando possiamo parlare del prossimo passo?
 
-## 36.6 Follow-Up Scripts
+Ti mando la proposta entro domani? E ne parliamo giovedì?"
 
-📞 **Post-call email (phone script for voicemail):**
-"Hi [Name], this is [You] from Graphene Lab. Just following up on our conversation. I'm sending you the [materials discussed] as promised. I'll call you on [day] to check in. Have a great day!"
+## 36.4 Script Follow-Up su Obiezione
 
-📞 **Re-engagement (after 30 days silence):**
-"Hi [Name], [You] from Graphene Lab. It's been a month since we last spoke. I wanted to check in — has anything changed on your end? We've also made some improvements since we last talked. Would you be open to a quick 5-minute chat?"
+📞 **Script completo (30-60 secondi):**
 
-## 36.7 Appointment Scripts
+"Ciao [Nome], ti ho chiamato [giorno] e hai menzionato che [obiezione specifica]. Ho pensato a come affrontarla e ho preparato [soluzione/materiale].
 
-📞 **Booking a demo:**
-"I'd love to show you AgentBridge in action. It's a 15-minute demo where I'll show you exactly how it works with documents similar to yours. Would Tuesday at 10 AM or Wednesday at 2 PM work better?"
+[Spiega come affronti l'obiezione]
 
-## 36.8 Renewal Scripts
+Ora, la domanda è: questo risolve la preoccupazione? Possiamo andare avanti?
 
-📞 **Renewal call:**
-"Hi [Name], this is [You] from Graphene Lab. Your AgentBridge license is up for renewal on [date]. You've been with us for [X months] and I'd love to continue. I can lock in your current rate for another year if you renew by [date]. Shall I go ahead?"
+Prossimo passo: [azione specifica]. [Data]. Affare?"
 
-## 36.9 Recovery Scripts
+## 36.5 Script Rinnovo
 
-📞 **Recovering a lost deal:**
-"Hi [Name], [You] from Graphene Lab. I know we spoke a few months ago and it wasn't the right time. I wanted to check in — has your situation changed? We've also made significant improvements. Would you be open to a quick 5-minute chat to see if the timing is better now?"
+📞 **Script completo (60-90 secondi):**
+
+"Ciao [Nome], sono Andrea di Graphene Lab. Il vostro contratto AgentBridge scade tra 30 giorni.
+
+Volevo chiamare per capire: state ottenendo il valore che vi aspettavate? [Ascolta]
+
+Ottimo. [Se positivo] — Sono contento. Per il rinnovo, vi offriamo [condizioni]. E se volete aggiungere [feature], c'è un'opportunità.
+
+Come procediamo? Ti mando il rinnovo? Dobbiamo parlare con il CFO?"
+
+## 36.6 Script Upsell
+
+📞 **Script completo (30-60 secondi):**
+
+"Ciao [Nome], sono contento che AgentBridge stia funzionando bene per il team admin. Ho notato che state usando solo [funzionalità X].
+
+Sapevate che potete anche usare [funzionalità Y]? [Spiega valore]. Posso mostrarvi come in 10 minuti?
+
+Sarebbe utile per il vostro team? [Se sì] — Fissiamo una demo rapida."
+
+## 36.7 Script Recupero Cliente Perso
+
+📞 **Script completo (60-90 secondi):**
+
+"Ciao [Nome], sono Andrea di Graphene Lab. So che avete smesso di usare AgentBridge [tempo fa]. Mi dispiace.
+
+Volevo chiamare per capire cosa è successo. [Ascolta]
+
+Capisco. [Valida]. Nel frattempo, abbiamo rilasciato [novità che affronta il loro problema]. E il pricing è cambiato.
+
+Se vi mostrassi cosa c'è di nuovo, sareste aperti a riprovare? [Se sì] — Fissiamo una demo. [Data]."
+
+## 36.8 Script Networking
+
+📞 **Script completo (30-60 secondi):**
+
+"Ciao [Nome], sono Andrea di Graphene Lab. [Contatto reciproco] mi ha suggerito di contattarti. Ha parlato molto bene di te.
+
+Non ti chiamo per venderti niente — mi piacerebbe semplicemente connettermi e capire cosa fate nel [settore]. Magari c'è un modo in cui possiamo collaborare o scambiarci idee.
+
+Hai 10 minuti per una chiacchierata questa settimana?"
+
+## 36.9 Script Voicemail
+
+📞 **Voicemail (20-30 secondi):**
+
+"Ciao [Nome], sono Andrea di Graphene Lab. Ti ho chiamato perché [motivo specifico]. Non ti lascio il mio numero perché tu debba richiamare — ti mando un'email con tutto. Ma se vuoi parlare prima, il mio numero è [numero]. A presto."
+
+## 36.10 Script LinkedIn → Telefono
+
+📞 **Script completo (30-60 secondi):**
+
+"Ciao [Nome], sono Andrea di Graphene Lab. Ci siamo connessi su LinkedIn. Ho visto il tuo post su [argomento] — molto interessante.
+
+In realtà, è esattamente ciò che aiutiamo le aziende a risolvere. AgentBridge è un'AI self-hosted che [beneficio specifico]. Saresti aperto a una chiacchierata di 10 minuti su come potrebbe aiutare con [loro sfida]?"
+
+## 36.11 Script per Email → Telefono
+
+📞 **Script completo (30-60 secondi):**
+
+"Ciao [Nome], sono Andrea di Graphene Lab. Ti ho mandato un'email [giorno] su [argomento]. Volevo fare follow-up personalmente.
+
+Hai avuto modo di leggerla? [Se sì] — Cosa ne pensi? [Se no] — Te la rimando. Ma nel frattempo, posso rispondere a qualsiasi domanda tu abbia.
+
+In base a [situazione loro], penso che [soluzione]. Fissiamo una call?"
+
+## 36.12 Script per Evento/Webinar
+
+📞 **Script completo (30-60 secondi):**
+
+"Ciao [Nome], sono Andrea di Graphene Lab. Hai partecipato al nostro webinar su [argomento] la settimana scorsa — grazie!
+
+Volevo fare follow-up e vedere se avevi domande. E anche — in base a quello che hai visto, pensi che [prodotto] possa essere utile per la vostra situazione?
+
+Posso mostrarti di più? [Data] funziona?"
 
 ---
 
-## Chapter Summary
-These scripts are starting points, not word-for-word recitations. Adapt them to your voice, your prospect, and your situation. Practice them until they feel natural.
+## Riepilogo del Capitolo
 
-## Action Items
-- [ ] Print these scripts and keep them visible during calls
-- [ ] Customize each script for your specific AgentBridge prospects
-- [ ] Practice each script aloud 10 times
-- [ ] Record yourself and refine based on how it sounds
-- [ ] Update scripts monthly based on what's working
+Script pronti per ogni situazione:
+- **Cold call**: PMI, studi professionali
+- **Follow-up**: Post-demo, post-obiezione
+- **Rinnovo**: Prima della scadenza
+- **Upsell**: Funzionalità aggiuntive
+- **Recupero**: Clienti persi
+- **Networking**: Connessioni, referral
+- **Voicemail**: Breve, con valore
+- **Social**: LinkedIn → telefono
+- **Evento**: Post-webinar
+
+Adatta sempre i placeholder [Nome], [Azienda], [Segnale] alla situazione specifica.
+
+---
+
+## Azioni da Intraprendere
+
+- [ ] Personalizza questi script per il tuo stile e mercato
+- [ ] Pratica ogni script 5 volte fino a renderlo naturale
+- [ ] Crea una banca di script nel tuo CRM
+- [ ] Registra te stesso e rivedi
+- [ ] Aggiorna gli script ogni mese basandoti sui risultati

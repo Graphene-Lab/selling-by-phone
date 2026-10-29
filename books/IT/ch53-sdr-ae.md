@@ -1,78 +1,142 @@
-# Sales development e account executive
+# Capitolo 53: SDR e AE — Ruoli e Collaborazione
 
-## 53.1 Roles and Responsibilities
-| Role | Focus | Metrics |
-|------|-------|---------|
-| **SDR** (Sales Development Rep) | Outbound prospecting, qualification | Meetings booked, pipeline generated |
-| **AE** (Account Executive) | Closing deals, negotiation | Revenue closed, win rate |
+## 53.1 Il Modello SDR/AE
 
-## 53.2 SDR
-- Makes 50-80 calls per day
-- Qualifies prospects using MEDDIC/BANT
-- Books meetings for AEs
-- Manages outreach sequences
-- Handles initial objections
-- Updates CRM with detailed notes
+**SDR (Sales Development Rep)**: Genera e qualifica lead. Fissa appuntamenti.
+**AE (Account Executive)**: Converte appuntamenti in deal chiusi.
 
-## 53.3 AE
-- Takes qualified meetings from SDRs
-- Conducts demos and discovery
-- Builds business cases
-- Negotiates and closes deals
-- Manages the sales cycle
-- Coordinates with Customer Success for handoff
+**Il passaggio di consegne:**
+SDR → Qualifica → Appuntamento → AE → Demo → Proposta → Chiusura
 
-## 53.4 Handoff
-The SDR-to-AE handoff is critical:
-- SDR provides full context (research, pain points, MEDDIC data)
-- AE reviews all notes before the meeting
-- Warm introduction (SDR introduces AE by name)
-- Clear expectations (what the AE will cover, what the SDR already covered)
-- Feedback loop (AE tells SDR how the meeting went)
+## 53.2 Il Ruolo SDR
 
-## 53.5 Collaboration
-- Daily sync between SDR and AE (5-10 min)
-- Shared CRM with full visibility
-- SDR feeds AE with qualified opportunities
-- AE provides feedback on lead quality
-- Joint account planning for key accounts
+**Responsabilità:**
+- 50-80 chiamate al giorno
+- Qualificazione lead (MEDDIC)
+- Appointment setting
+- Follow-up iniziale
+- Aggiornamento CRM
 
-## 53.6 Goals
-| Role | Monthly Target |
-|------|---------------|
-| **SDR** | 20-30 qualified meetings booked |
-| **AE** | €50,000-150,000 revenue closed |
-| **Combined** | Pipeline coverage 3x quota |
+**Skill chiave:**
+- Resilienza (rifiuto costante)
+- Comunicazione concisa
+- Qualificazione rapida
+- Organizzazione
+- Persistenza rispettosa
 
-## 53.7 Metrics
-| Metric | SDR | AE |
-|--------|-----|-----|
-| Calls/day | 50-80 | 15-25 |
-| Meetings booked | 5-8/week | N/A |
-| Meetings held | N/A | 8-12/week |
-| Win rate | N/A | 25-40% |
-| Pipeline generated | €100K-300K/month | N/A |
-| Revenue closed | N/A | €50K-150K/month |
+## 53.3 Il Ruolo AE
 
-## 53.8 Best Practices
-- Clear role definitions (no overlap, no gaps)
-- Fast handoff (no lead goes cold)
-- Quality feedback loop (AE tells SDR what's working)
-- Shared goals (team targets alongside individual targets)
-- Mutual respect (both roles are essential)
+**Responsabilità:**
+- Condurre demo
+- Presentare proposte
+- Negoziare e chiudere
+- Gestire il ciclo di vendita
+- Coordinare con SDR
+
+**Skill chiave:**
+- Discovery profonda
+- Presentazione valore
+- Negoziazione
+- Chiusura
+- Gestione multi-stakeholder
+
+## 53.4 Il Passaggio di Consegne
+
+**Il momento critico: SDR → AE**
+
+**Cosa l'SDR deve passare:**
+- Nome, ruolo, azienda
+- MEDDIC scorecard
+- Note della conversazione
+- Obiezioni sollevate
+- Prossimo passo concordato
+- Contesto e "temperatura"
+
+**Template di handoff:**
+```
+Prospect: Marco Rossi, COO, [Azienda]
+MEDDIC: 4/6 (mancano: Economic Buyer, Decision Process)
+Pain: 4 ore/giorno su admin, costi crescenti
+Obiezioni: "Devo parlare con CFO"
+Next step: Demo giovedì 10:00
+Temperatura: Caldo, interessato
+Note: Ex cliente [Competitor], insoddisfatto
+```
+
+## 53.5 Collaborazione SDR-AE
+
+**Regole di collaborazione:**
+- **Comunicazione quotidiana**: Slack, standup
+- **Feedback loop**: AE dice a SDR se lead sono qualificati
+- **Allineamento**: Stesso messaggio, stessa promessa
+- **Rispetto**: Ogni ruolo è prezioso
+- **Metriche condivise**: Revenue è un obiettivo di team
+
+## 53.6 SDR Best Practices
+
+**Per l'SDR:**
+- **Qualifica davvero**: Non passare lead non qualificati
+- **Note dettagliate**: L'AE deve essere preparato
+- **Follow-up**: Non passare e dimenticare
+- **Feedback**: Chiedi all'AE come migliorare
+- **Volume**: 50+ chiamate al giorno
+- **Qualità**: Meglio 5 lead buoni che 20 mediocri
+
+## 53.7 AE Best Practices
+
+**Per l'AE:**
+- **Preparazione**: Studia il handoff prima della demo
+- **Non ri-qualificare**: Fidati dell'SDR, non rifare la discovery
+- **Feedback**: Dì all'SDR cosa funziona e cosa no
+- **Velocità**: Chiama entro 24h dall'appuntamento
+- **Follow-up**: Dopo la demo, proponi subito
+
+## 53.8 Metriche SDR
+
+| KPI | Target |
+|-----|--------|
+| Chiamate/giorno | 50-80 |
+| Conversazioni/giorno | 15-25 |
+| Appuntamenti/settimana | 8-12 |
+| Qualificazione rate | >60% (passano all'AE) |
+| Show rate | >80% (si presentano alla demo) |
+
+## 53.9 Metriche AE
+
+| KPI | Target |
+|-----|--------|
+| Demo/settimana | 5-8 |
+| Proposte/settimana | 3-5 |
+| Win rate | 25-40% |
+| Ciclo di vendita | 30-60 giorni |
+| ACV | 10K-50K€ |
+
+## 53.10 AgentBridge per SDR/AE
+
+🤖 **Come AgentBridge supporta il modello SDR/AE:**
+- **SDR**: Automazione follow-up, lead scoring, scheduling
+- **AE**: Generazione proposte, report, documentazione
+- **Team**: Report condivisi, pipeline visibility
+- **Handoff**: Documentazione automatica della chiamata
 
 ---
 
-## Chapter Summary
-The SDR-AE model divides the sales process for specialization:
-- SDRs generate and qualify pipeline
-- AEs close deals
-- The handoff between them must be seamless
-- Both roles are essential and complementary
+## Riepilogo del Capitolo
 
-## Action Items
-- [ ] Define clear SDR and AE role descriptions
-- [ ] Create a handoff checklist
-- [ ] Set up daily SDR-AE sync meetings
-- [ ] Implement feedback loop between roles
-- [ ] Align individual and team goals
+Il modello SDR/AE:
+- **SDR**: Genera e qualifica, 50+ chiamate/giorno
+- **AE**: Converte e chiude, demo e negoziazione
+- **Handoff**: Dettagliato, strutturato, tempestivo
+- **Collaborazione**: Comunicazione, feedback, rispetto
+- **Metriche**: Separate ma allineate
+- **AgentBridge**: Supporta entrambi i ruoli
+
+---
+
+## Azioni da Intraprendere
+
+- [ ] Definisci il processo di handoff SDR→AE
+- [ ] Crea un template di handoff strutturato
+- [ ] Stabilisci feedback loop settimanale
+- [ ] Allinea messaggi SDR e AE
+- [ ] Usa AgentBridge per automatizzare la documentazione

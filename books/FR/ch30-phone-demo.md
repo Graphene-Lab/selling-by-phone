@@ -1,91 +1,105 @@
-# Demonstration telephonique
+# Chapitre 30 : Démo Téléphonique d'AgentBridge
 
-## 30.1 Objectives
-The phone demo has one goal: show the prospect enough value to move them to the next step (proposal, trial, or purchase). It is not about showing every feature — it is about showing the features that solve THEIR specific problems.
+## 30.1 Préparer la Démo
 
-## 30.2 Preparation
-- Review discovery notes from previous calls
-- Prepare a demo environment with their type of data
-- Have a clear demo flow (3-5 key features max)
-- Test your technology (phone, screen share, internet)
-- Prepare for questions and interruptions
-- Have a backup plan if technology fails
+La démo est le moment crucial de la vente AgentBridge. C'est là que le prospect voit le produit en action et décide si c'est juste pour lui.
 
-## 30.3 Narration
-On a phone demo, you cannot show a screen easily. Use narration:
-- "I'm now opening AgentBridge and typing: 'Create a monthly sales report from Q3 data.'"
-- "Watch as the agent reads the data, generates a formatted PDF with charts..."
-- "And there it is — a complete report in 30 seconds. That used to take your team 2 hours."
+**Préparation (30 minutes avant) :**
+- [ ] Revoir les notes de la discovery call
+- [ ] Préparer des exemples personnalisés (documents similaires aux leurs)
+- [ ] Tester la connexion et l'audio
+- [ ] Ouvrir AgentBridge et préparer les prompts de démo
+- [ ] Préparer un "parcours" logique (ne pas improviser)
+- [ ] Avoir un backup (screenshots, vidéo) en cas de problèmes techniques
 
-For video demos:
-- Share your screen with a clean, uncluttered desktop
-- Move slowly through the interface
-- Narrate every action
-- Pause for questions at natural breaks
+## 30.2 Structure de la Démo (15 minutes)
 
-## 30.4 Engagement
-Keep the prospect engaged during the demo:
-- Ask questions: "Does this address what you told me about [their pain]?"
-- Pause frequently: "Any questions so far?"
-- Connect to their needs: "Remember you said [X]? This solves that."
-- Use their language: Mirror the words they used during discovery
-- Show outcomes, not just features: "This means your team saves 4 hours a day"
+| Minute | Activité |
+|--------|----------|
+| **0-2** | Recap et objectif : "Je vais vous montrer comment AgentBridge crée [X] en 30 secondes" |
+| **2-5** | Démo 1 : Création de document (facture/rapport) |
+| **5-8** | Démo 2 : Automatisation email ou rapport hebdomadaire |
+| **8-11** | Démo 3 : Téléphonie SIP ou scheduling |
+| **11-13** | Q&A : Répondre aux questions |
+| **13-15** | Prochain pas : "Je vous envoie la proposition ?" |
 
-## 30.5 Handling Questions During the Demo
-- Answer briefly, then return to the demo flow
-- If a question derails the demo: "Great question — let me note that and come back to it at the end"
-- If you don't know the answer: "I don't want to guess. Let me find out and get back to you by [specific time]"
-- If the question reveals a new concern: Address it before continuing
+## 30.3 Démo Personnalisée
 
-## 30.6 Proof of Value
-The demo must prove value:
-- Show real results (not hypothetical)
-- Use data similar to theirs
-- Quantify the time saved
-- Show quality of output
-- Demonstrate ease of use
+**Jamais** une démo générique. **Toujours** personnalisée :
 
-🤖 **AgentBridge Demo Flow:**
-1. "Here's a typical invoice. Normally takes 30 minutes to create manually."
-2. [Type prompt into AgentBridge]
-3. [Agent generates the invoice in 30 seconds]
-4. "Same quality. 30 seconds instead of 30 minutes. Multiply that by 100 invoices a month."
-5. "And because it's self-hosted, that data never left your machine."
+📞 **Exemple :**
+"Marco, pendant notre dernier appel vous m'avez dit que vous créez 50 factures par semaine. Laissez-moi vous montrer exactement comment AgentBridge crée une facture pour le 'Client Rossi' — exactement comme vous le feriez, mais en 30 secondes. Regardez."
 
-## 30.7 Closing the Demo
-End the demo with a clear next step:
-- "Based on what you've seen, does this address your needs?"
-- "What would need to happen for you to move forward?"
-- "Can we set up a pilot/trial starting next week?"
-- "Who else needs to see this before we proceed?"
+[Démontre en temps réel]
 
-## 30.8 Common Demo Mistakes
+"Vous avez vu ? J'ai écrit 'Crée facture pour Client Rossi, 5 000€, consulting mars' et en 30 secondes j'ai une facture Word complète, formatée, prête à envoyer. Multipliez par 50 factures par semaine. C'est ce que ça signifie pour votre équipe."
 
-| Mistake | Fix |
-|---------|-----|
-| Showing too many features | Focus on 3-5 that match their needs |
-| No narration (phone) | Describe every action clearly |
-| Not connecting to their pain | Reference discovery notes throughout |
-| No questions to the prospect | Ask "Does this help with [X]?" regularly |
-| Technology failures | Test everything beforehand, have backup |
-| No clear close | Always end with a next step |
-| Demoing to the wrong person | Qualify before scheduling the demo |
+## 30.4 Storytelling dans la Démo
+
+Ne montrez pas juste des fonctionnalités — racontez une histoire :
+
+📞 **Exemple :**
+"Imaginez être Marco, lundi matin. Vous ouvrez le laptop. Au lieu de passer 4 heures sur les factures et les rapports, vous trouvez qu'AgentBridge a déjà tout généré. Il ne reste qu'à revoir et approuver. Je vous montre comment fonctionne le prompt qui génère le rapport hebdomadaire..."
+
+## 30.5 Gérer les Questions Pendant la Démo
+
+**Questions pendant la démo :**
+- **Répondez brièvement** et retournez à la démo
+- **Si la question est complexe** : "Excellente question — je l'adresse à la fin, ok ?"
+- **Si la question révèle une objection** : "Je comprends la préoccupation. Laissez-moi montrer comment ça marche et ensuite on en parle."
+- **Si vous ne savez pas** : "Je n'en suis pas sûr à 100% — je vérifie et je vous réponds aujourd'hui."
+
+## 30.6 Démo de Téléphonie SIP
+
+📞 **Exemple :**
+"Maintenant la partie qui plaît le plus. AgentBridge peut répondre à vos appels téléphoniques. Imaginez : vous appelez votre numéro, et un assistant IA répond, comprend la demande, et gère l'appel. Réservations, informations, routage — tout automatique. Votre téléphone est couvert 24/7 sans embaucher un standardiste."
+
+## 30.7 Gérer les Problèmes Techniques
+
+**Si quelque chose ne marche pas pendant la démo :**
+- **Ne paniquez pas** : "Petit souci technique — un instant."
+- **Backup** : Utilisez des screenshots ou vidéo pré-enregistrés
+- **Transparence** : "C'est une démo live, parfois ça arrive. Je vous montre le résultat que vous auriez obtenu."
+- **Follow-up** : Si le problème persiste, envoyez une démo enregistrée après
+
+## 30.8 Clôturer la Démo
+
+**Ne terminez jamais la démo sans un prochain pas :**
+
+📞 **Exemple :**
+"Bien Marco, vous avez vu comment AgentBridge crée des documents, gère des emails et répond aux appels. D'après ce que vous avez vu, qu'en pensez-vous ? Ça a du sens pour votre équipe ? [Écouter] Super. Le prochain pas : je vous envoie la proposition avant demain. Vous la revoyez avec le CFO et on en parle jeudi. Deal ?"
+
+## 30.9 Post-Démo
+
+**Dans l'heure :**
+- Envoyer email de remerciement
+- Joindre les matériaux promis
+- Résumer ce qui a été montré
+- Confirmer les prochains pas
+
+**Dans les 24 heures :**
+- Envoyer la proposition formelle
+- Mettre à jour le CRM
+- Planifier le follow-up
 
 ---
 
-## Chapter Summary
-The phone demo is about proving value through focused demonstration:
-- **Prepare** with their specific needs in mind
-- **Narrate** clearly (especially on phone)
-- **Engage** with questions and connections
-- **Prove** value with real results
-- **Close** with a clear next step
+## Résumé du Chapitre
+
+La démo téléphonique d'AgentBridge exige :
+- **Préparation** : Personnalisée, testée, avec backup
+- **Structure** : 15 minutes, 3 démos, Q&A, fermeture
+- **Personnalisation** : Exemples spécifiques pour leur business
+- **Storytelling** : Pas des fonctionnalités, mais des résultats
+- **Gestion questions** : Brèves, puis retour à la démo
+- **Fermeture** : Toujours avec prochain pas clair
 
 ---
 
-## Action Items
-- [ ] Create a 15-minute AgentBridge demo script
-- [ ] Set up a demo environment with sample data
-- [ ] Practice the demo 5 times (record and review)
-- [ ] Prepare answers for the top 10 demo questions
-- [ ] Create a post-demo follow-up email template
+## Actions à Entreprendre
+
+- [ ] Créer un "parcours démo" de 15 minutes pour AgentBridge
+- [ ] Préparer 3 exemples personnalisés pour différents types de prospects
+- [ ] Pratiquez la démo 5 fois jusqu'à ce qu'elle soit fluide
+- [ ] Créer un backup (screenshots/vidéo) pour problèmes techniques
+- [ ] Écrire le template d'email post-démo

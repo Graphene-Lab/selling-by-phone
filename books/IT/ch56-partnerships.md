@@ -1,72 +1,95 @@
-# Partnership e canali
+# Capitolo 56: Partnership e Canali Indiretti
 
-## 56.1 Types
-- **Resellers**: Sell AgentBridge under their own brand
-- **Referral partners**: Refer leads for commission
-- **Technology partners**: Integrate AgentBridge with their products
-- **Consulting partners**: Implement AgentBridge for clients
-- **Channel partners**: Sell through existing distribution networks
+## 56.1 Vendere Attraverso Partnership
 
-## 56.2 Selection
-- Align on values and target market
-- Assess their sales capability
-- Check their reputation and stability
-- Ensure they understand AgentBridge's value
-- Verify compliance capabilities
+Le partnership moltiplicano la tua portata. Invece di chiamare ogni prospect direttamente, ti allei con chi ha già accesso al tuo target.
 
-## 56.3 Agreements
-- Clear commission structure
-- Territory/market exclusivity terms
-- Support and training commitments
-- Brand usage guidelines
-- Performance expectations
-- Termination clauses
+**Tipi di partnership per AgentBridge:**
+- **Partner tecnologici**: System integrator, IT consultant
+- **Partner commerciali**: Rivenditori, VAR (Value-Added Reseller)
+- **Partner strategici**: Aziende complementari (CRM, ERP)
+- **Referral partner**: Consulenti, commercialisti, avvocati
 
-## 56.4 Communication
-- Regular partner meetings (monthly)
-- Shared CRM visibility
-- Partner portal with resources
-- Dedicated partner manager
-- Regular product updates and training
+## 56.2 Identificare Partner
 
-## 56.5 Support
-- Product training for partner sales teams
-- Co-selling support (join their calls)
-- Marketing materials and co-branded content
-- Technical support for implementations
-- Escalation paths for issues
+**Criteri:**
+- **Accesso**: Hanno già il tuo target come cliente
+- **Complementarità**: Il loro prodotto + AgentBridge = più valore
+- **Reputazione**: Affidabili, rispettati
+- **Motivazione**: Incentivati a vendere
+- **Capacità**: Possono supportare il cliente
 
-## 56.6 Metrics
-| Metric | Target |
-|--------|--------|
-| Partner-sourced pipeline | 20-40% of total |
-| Partner win rate | 25-35% |
-| Partner satisfaction | ≥ 4/5 |
-| Revenue through partners | 30-50% of total |
-| Partner retention | > 80% annually |
+## 56.3 Costruire la Partnership
 
-## 56.7 Conflict Management
-- Clear territory/market boundaries
-- Deal registration system
-- Conflict resolution process
-- Fair attribution rules
-- Open communication channels
+**Fasi:**
+1. **Identificazione**: Trova partner potenziale
+2. **Approccio**: Chiama, presenta l'opportunità
+3. **Accordo**: Termini, commissioni, SLA
+4. **Formazione**: Insegna al partner a vendere AgentBridge
+5. **Supporto**: Materiali, demo, co-selling
+6. **Crescita**: Review regolari, espansione
 
-## 56.8 Growth
-- Start with 2-3 partners, prove the model
-- Expand gradually based on success
-- Invest in partner enablement
-- Create partner community
-- Recognize and reward top partners
+## 56.4 Chiamata a un Partner
+
+📞 **Esempio:**
+"Ciao Marco, sono Andrea di Graphene Lab. Sono un system integrator e ho notato che i tuoi clienti spesso hanno bisogno di automazione amministrativa. AgentBridge è un'AI self-hosted che potresti rivendere ai tuoi clienti. Commissioni al 20%, noi facciamo tutta la demo e implementazione. Tu fai l'introduzione. Ti va di parlarne 15 minuti?"
+
+## 56.5 Modello di Commissione
+
+**Struttura tipica:**
+| Tipo | Commissione |
+|------|-------------|
+| **Referral** (solo introduzione) | 10-15% del deal |
+| **Co-sell** (partecipa alla vendita) | 15-25% del deal |
+| **Reseller** (vende e supporta) | 25-40% del deal |
+| **Recorrente** (rinnovi) | 10-20% per 2-3 anni |
+
+## 56.6 Co-Selling con Partner
+
+**Come funziona:**
+- Partner fa l'introduzione
+- Tu fai la demo
+- Partner supporta la relazione
+- Revenue condiviso
+
+**Il tuo ruolo nella chiamata co-sell:**
+"Marco, grazie per l'introduzione. [Partner] mi ha parlato della vostra situazione. Lasciami mostrare come AgentBridge può aiutare..."
+
+## 56.7 Gestire il Canale
+
+**Attività di channel management:**
+- **Recruiting**: Trovare nuovi partner
+- **Onboarding**: Formare i partner
+- **Supporto**: Materiali, demo, escalation
+- **Motivazione**: Incentivi, competizione, recognition
+- **Performance**: Tracciare revenue per partner
+
+## 56.8 AgentBridge per Partnership
+
+🤖 **Come AgentBridge supporta le partnership:**
+- **Materiali**: Genera one-pager per partner
+- **Demo**: Demo personalizzabile per partner
+- **Report**: Revenue per partner
+- **Automazione**: Follow-up partner automatizzato
 
 ---
 
-## Chapter Summary
-Partnerships extend your reach and scale your sales. Choose partners carefully, support them well, manage conflicts fairly, and grow gradually based on proven success.
+## Riepilogo del Capitolo
 
-## Action Items
-- [ ] Define your partner program structure
-- [ ] Identify potential partners in your market
-- [ ] Create partner onboarding materials
-- [ ] Set up partner tracking and reporting
-- [ ] Plan a partner growth roadmap
+Partnership e canali indiretti:
+- **Tipi**: Tecnologici, commerciali, strategici, referral
+- **Identifica**: Accesso, complementarità, reputazione
+- **Costruisci**: 6 fasi da identificazione a crescita
+- **Commissioni**: 10-40% a seconda del modello
+- **Co-sell**: Partner introduce, tu chiudi
+- **Gestisci**: Recruiting, formazione, supporto, motivazione
+
+---
+
+## Azioni da Intraprendere
+
+- [ ] Identifica 5 potenziali partner
+- [ ] Chiama 3 partner questa settimana
+- [ ] Crea un one-pager per partner
+- [ ] Definisci il tuo modello di commissione
+- [ ] Crea un programma di onboarding partner

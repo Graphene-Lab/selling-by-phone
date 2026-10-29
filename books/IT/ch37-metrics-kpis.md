@@ -1,55 +1,139 @@
-# Metriche e KPI
+# Capitolo 37: Metriche e KPI Telefonici
 
-## 37.1-37.9 Core Metrics
-| Metric | Formula | Target (B2B) |
-|--------|---------|--------------|
-| Calls made | Total dials per day | 30-60 |
-| Connect rate | Connected / Dialed | 15-25% |
-| Conversion rate | Deals closed / Connected | 5-15% |
-| Avg call duration | Total talk time / Connected | 5-15 min |
-| Cost per acquisition | Total cost / Deals closed | Varies |
-| Pipeline value | Sum of open opportunities | 3x quota |
-| Win rate | Won / (Won + Lost) | 20-35% |
-| Appointment rate | Meetings / Connected | 15-25% |
-| Revenue per call | Revenue / Total calls | Track trend |
+## 37.1 KPI Fondamentali
 
-## 37.10 Talk-to-Listen Ratio
-Ideal ratio: 40% talking, 60% listening. Top performers listen more than they talk.
+**I numeri che contano per la vendita telefonica:**
 
-## 37.11 Question Rate
-Top performers ask 2-3x more questions than average performers. Track: questions per call.
+| KPI | Formula | Benchmark |
+|-----|---------|-----------|
+| **Tasso di contatto** | Contatti / Chiamate fatte × 100 | 20-40% |
+| **Tasso di conversazione** | Conversazioni / Contatti × 100 | 30-50% |
+| **Tasso di appuntamento** | Appuntamenti / Conversazioni × 100 | 10-25% |
+| **Tasso di demo** | Demo / Appuntamenti × 100 | 60-80% |
+| **Tasso di proposta** | Proposte / Demo × 100 | 50-70% |
+| **Win rate** | Won / (Won + Lost) × 100 | 20-40% |
+| **Ciclo di vendita** | Giorni Lead → Won | 30-90 giorni |
+| **Valore medio deal** | Revenue / Numero deal | 5.000-50.000€ |
 
-## 37.12 2026 Benchmarks
-| Role | Calls/Day | Connect Rate | Appointments/Week |
-|------|-----------|-------------|-------------------|
-| **SDR** | 50-80 | 15-20% | 8-12 |
-| **Closer** | 15-25 | 30-50% | 5-8 |
-| **Account Manager** | 10-20 | 50-70% | 3-5 |
+## 37.2 KPI di Attività
 
-## 37.13 Quarterly OKRs for Phone Prospecting
-- **Objective**: Generate qualified pipeline through phone outreach
-- **KR1**: 1,200 calls per quarter
-- **KR2**: 240 qualified leads (20% connect-to-qualify)
-- **KR3**: 48 opportunities created (20% qualify-to-opportunity)
-- **KR4**: €240,000 pipeline value generated
+| Attività | Target Giornaliero |
+|----------|-------------------|
+| **Chiamate fatte** | 40-60 |
+| **Conversazioni avute** | 10-20 |
+| **Appuntamenti fissati** | 2-4 |
+| **Follow-up fatti** | 10-15 |
+| **Email inviate** | 10-20 |
+| **Demo condotte** | 1-2 |
 
-## 37.14 Quality vs. Quantity
-2026 rewards quality over quantity. 30 well-targeted, well-prepared calls outperform 100 random dials. Track quality metrics alongside volume.
+## 37.3 KPI di Performance
 
-## 37.15 Customer Satisfaction Post-Call
-Target: ≥ 4/5. Survey customers after interactions. Low satisfaction = process problem.
+| KPI | Cosa Misura | Come Migliorare |
+|-----|-------------|-----------------|
+| **Revenue per chiamata** | Efficienza complessiva | Migliora conversione, aumenta deal size |
+| **Tempo per chiusura** | Velocità del ciclo | Riduci attriti, accelera follow-up |
+| **Tasso di obiezioni** | Qualità del pitch | Meno obiezioni = messaggio più chiaro |
+| **Tasso di referral** | Soddisfazione cliente | Migliora relazione post-vendita |
+| **Tasso di no-show** | Qualità appuntamenti | Conferma 24h prima, reminder |
 
-## 37.16 No-Show Rate
-Target: < 15%. High no-show rate indicates poor confirmation process or wrong timing.
+## 37.4 Dashboard Giornaliera
+
+**Cosa tracciare ogni giorno:**
+- Chiamate fatte: ___
+- Contatti raggiunti: ___
+- Conversazioni: ___
+- Appuntamenti fissati: ___
+- Demo condotte: ___
+- Proposte inviate: ___
+- Deal chiusi: ___
+- Revenue generato: ___
+
+## 37.5 Dashboard Settimanale
+
+**Cosa tracciare ogni settimana:**
+- Totale chiamate: ___
+- Tasso di contatto: ___%
+- Tasso di appuntamento: ___%
+- Demo condotte: ___
+- Proposte inviate: ___
+- Deal chiusi: ___
+- Revenue: ___
+- Pipeline totale: ___
+- Forecast: ___
+
+## 37.6 Dashboard Mensile
+
+**Cosa tracciare ogni mese:**
+- Revenue totale: ___
+- Deal chiusi: ___
+- Valore medio deal: ___
+- Ciclo di vendita medio: ___ giorni
+- Win rate: ___%
+- Top settore: ___
+- Top motivo di perdita: ___
+- Conversione per fase: ___
+- Attività vs. risultato: ___
+
+## 37.7 Analizzare i Dati
+
+**Domande da porsi con i dati:**
+- Dove perdo più prospect? (quale fase?)
+- Quale settore converte meglio?
+- Quale script funziona meglio?
+- Quale giorno/ora è migliore per chiamare?
+- Quale obiezione è più frequente?
+- Quanto tempo ci vuole per chiudere?
+- Quale attività genera più revenue?
+
+## 37.8 Benchmark di Settore
+
+| Settore | Ciclo Vendita | Win Rate | Deal Medio |
+|---------|--------------|----------|------------|
+| **PMI** | 30-60 giorni | 25-35% | 5.000-15.000€ |
+| **Studi professionali** | 20-45 giorni | 30-40% | 3.000-10.000€ |
+| **Tech/Startup** | 15-30 giorni | 20-30% | 10.000-30.000€ |
+| **Manifattura** | 45-90 giorni | 15-25% | 15.000-50.000€ |
+| **Sanità** | 60-120 giorni | 15-25% | 20.000-60.000€ |
+| **B2G** | 90-180 giorni | 10-20% | 30.000-100.000€ |
+
+## 37.9 Strumenti di Tracking
+
+**Tool per tracciare KPI:**
+- **CRM**: HubSpot, Salesforce, Pipedrive
+- **Spreadsheet**: Excel/Google Sheets per tracking semplice
+- **AgentBridge**: Genera report automaticamente
+- **Dashboard**: Tableau, Power BI per visualizzazione
+- **Call tracking**: Numeri tracciati per misurare fonti
+
+## 37.10 Usare i Dati per Migliorare
+
+**Ciclo di miglioramento:**
+1. **Traccia** → Raccogli dati ogni giorno
+2. **Analizza** → Identifica pattern e problemi
+3. **Ipotizza** → Cosa causerebbe il problema?
+4. **Testa** → Cambia una variabile
+5. **Misura** → Confronta risultati
+6. **Adotta** → Mantieni ciò che funziona
+7. **Ripeti** → Miglioramento continuo
 
 ---
 
-## Chapter Summary
-What gets measured gets improved. Track your core metrics daily, review weekly, and adjust strategy monthly. Quality metrics matter as much as quantity.
+## Riepilogo del Capitolo
 
-## Action Items
-- [ ] Set up a daily metrics dashboard
-- [ ] Track talk-to-listen ratio on 5 calls this week
-- [ ] Define your quarterly OKRs for phone prospecting
-- [ ] Implement post-call satisfaction surveys
-- [ ] Review metrics weekly and adjust your approach
+I KPI telefonici fondamentali:
+- **Attività**: Chiamate, conversazioni, appuntamenti
+- **Conversione**: Tasso per ogni fase della pipeline
+- **Performance**: Revenue per chiamata, ciclo di vendita
+- **Tracciamento**: Giornaliero, settimanale, mensile
+- **Analisi**: Dove perdi, cosa funziona, cosa migliorare
+- **Benchmark**: Confronta con standard di settore
+
+---
+
+## Azioni da Intraprendere
+
+- [ ] Crea una dashboard di tracking (anche semplice)
+- [ ] Traccia i tuoi KPI per 30 giorni
+- [ ] Identifica la fase con il maggior drop-off
+- [ ] Confronta i tuoi numeri con i benchmark
+- [ ] Crea un piano di miglioramento basato sui dati

@@ -1,74 +1,90 @@
-# Territory management
+# Capitolo 55: Gestione del Territorio Telefonico
 
-## 55.1 Territory Definition
-- Geographic (by region, city, country)
-- Vertical (by industry)
-- Size-based (by company size)
-- Hybrid (combination of above)
+## 55.1 Cos'è il Territory Management
 
-## 55.2 Assignment
-- Balance potential across territories
-- Match seller strengths to territory characteristics
-- Consider existing relationships
-- Ensure fair opportunity distribution
-- Review and adjust quarterly
+Il territory management è l'allocazione strategica di risorse di vendita su un'area geografica o segmento di mercato. Per il telefono, il "territorio" può essere geografico, di settore, o per dimensione cliente.
 
-## 55.3 Planning
-- Each seller plans their territory coverage
-- Identify top accounts and prioritize
-- Plan outreach cadence per segment
-- Allocate time for new business vs. existing accounts
-- Set territory-specific targets
+**Tipi di territorio:**
+- **Geografico**: Regioni, città, paesi
+- **Di settore**: Industria verticale
+- **Per dimensione**: PMI, mid-market, enterprise
+- **Ibrido**: Combinazione dei tre
 
-## 55.4 Priorities
-- Top 20% of accounts get 60% of attention
-- High-signal accounts get immediate follow-up
-- Nurture accounts get scheduled touches
-- Low-fit accounts get minimal effort or are reassigned
+## 55.2 Definire il Territorio
 
-## 55.5 Metrics
-| Metric | Target |
-|--------|--------|
-| Territory coverage | 80% of target accounts contacted |
-| Pipeline per territory | 3x quota |
-| Win rate by territory | Track and compare |
-| Revenue per territory | Track and compare |
-| Account penetration | 3+ contacts per key account |
+**Per AgentBridge:**
+- **Geografico**: Nord Italia (Milano, Torino, Verona)
+- **Settore**: Servizi professionali, sanità, manifattura
+- **Dimensione**: 20-500 dipendenti
+- **Lingua**: Italiano (primario), Tedesco (Sud Tirolo)
 
-## 55.6 Balancing
-- Review territory performance quarterly
-- Rebalance if some territories are overloaded/underloaded
-- Adjust targets based on territory potential
-- Consider territory splits as teams grow
-- Ensure no territory is neglected
+## 55.3 Equilibrio del Territorio
 
-## 55.7 Tools
-- CRM territory management
-- Geographic mapping tools
-- Data enrichment for territory planning
-- Analytics for territory performance
+**Principi:**
+- **Equo**: Ogni venditore ha potenziale simile
+- **Gestibile**: Non troppo grande da non poterlo coprire
+- **Misurabile**: Target chiari per territorio
+- **Flessibile**: Riaggiustabile in base a performance
 
-## 55.8 Best Practices
-- Review territories quarterly
-- Use data for assignment decisions
-- Allow flexibility for relationship-based selling
-- Communicate changes clearly and in advance
-- Align territory changes with compensation changes
+## 55.4 Copertura del Territorio
 
-## 55.9 Dynamic Territories
-- Quarterly reviews vs. annual static model
-- Adjust based on market changes, new signals, performance
-- Dynamic territories respond faster to opportunity
-- Requires more active management but yields better results
+**Strategia di copertura telefonica:**
+- **Tier 1** (alto valore): Contatto settimanale, personalizzato
+- **Tier 2** (medio valore): Contatto bisettimanale
+- **Tier 3** (basso valore): Contatto mensile, automatizzato
+
+**Regola**: 70% tempo su Tier 1-2, 30% su Tier 3.
+
+## 55.5 Pianificazione del Territorio
+
+**Attività settimanali per territorio:**
+| Giorno | Focus |
+|--------|-------|
+| **Lunedì** | Pianificazione, ricerca, Tier 1 |
+| **Martedì** | Cold call Tier 1-2 |
+| **Mercoledì** | Demo, meeting |
+| **Giovedì** | Follow-up, Tier 2-3 |
+| **Venerdì** | Admin, review, pianificazione prossima settimana |
+
+## 55.6 Espansione del Territorio
+
+**Quando espandere:**
+- Territorio saturo (tutti i prospect contattati)
+- Performance sopra target
+- Nuove opportunità identificate
+- Risorse disponibili (nuovo SDR/AE)
+
+**Come espandere:**
+- Aggiungere segmenti adiacenti
+- Espandere geograficamente
+- Abbassare soglia dimensione
+- Aggiungere settori
+
+## 55.7 AgentBridge per Territory Management
+
+🤖 **Come AgentBridge supporta il territorio:**
+- **Report per territorio**: Pipeline, revenue, copertura
+- **Automazione**: Follow-up per Tier 3 automatizzato
+- **Prioritizzazione**: AI suggerisce chi chiamare per primo
+- **Documentazione**: Note organizzate per territorio
 
 ---
 
-## Chapter Summary
-Territory management ensures balanced coverage and optimal resource allocation. Use data to define, assign, and adjust territories. Review quarterly and stay dynamic.
+## Riepilogo del Capitolo
 
-## Action Items
-- [ ] Define your territory structure
-- [ ] Assign territories based on data and strengths
-- [ ] Set territory-specific targets
-- [ ] Review territory performance quarterly
-- [ ] Plan for dynamic territory adjustments
+Territory management telefonico:
+- **Definisci**: Geografico, settore, dimensione
+- **Equilibra**: Potenziale simile per ogni venditore
+- **Copri**: Tier 1-2-3 con frequenza diversa
+- **Pianifica**: Settimanalmente, per giorno
+- **Espandi**: Quando saturo, con risorse
+
+---
+
+## Azioni da Intraprendere
+
+- [ ] Definisci il tuo territorio (geografia, settore, dimensione)
+- [ ] Crea una segmentazione Tier 1-2-3
+- [ ] Pianifica la copertura settimanale
+- [ ] Identifica opportunità di espansione
+- [ ] Usa AgentBridge per report di territorio

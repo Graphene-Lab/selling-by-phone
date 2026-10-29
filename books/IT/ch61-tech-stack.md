@@ -1,95 +1,129 @@
-# Tech stack per la vendita telefonica
+# Capitolo 61: Tech Stack per la Vendita Telefonica
 
-## 61.1 CRM
-The central hub: Salesforce, HubSpot, Pipedrive, Zoho
-- Contact management
-- Pipeline tracking
-- Activity logging
-- Reporting and analytics
-- Integration hub
+## 61.1 Componenti del Tech Stack
 
-## 61.2 Dialer
-- Power dialer (auto-dials next number)
-- Predictive dialer (AI-optimized dialing)
-- Click-to-call from CRM
-- Call recording integration
-- Voicemail detection
+**Il stack tecnologico per la vendita telefonica moderna:**
 
-## 61.3 Conversation Intelligence
-- Call recording and transcription
-- Sentiment analysis
-- Keyword detection
-- Auto-scoring
-- Coaching insights
+| Componente | Funzione | Esempi |
+|-----------|----------|--------|
+| **CRM** | Gestione contatti, pipeline, attività | HubSpot, Salesforce, Pipedrive |
+| **Dialer** | Chiamate, registrazione, tracking | Aircall, RingCentral, AgentBridge SIP |
+| **Email** | Follow-up, outreach | Gmail, Outlook, AgentBridge |
+| **Scheduling** | Appuntamenti, calendari | Calendly, Google Calendar |
+| **Demo** | Presentazioni, screen sharing | Zoom, Teams, AgentBridge |
+| **Analytics** | Report, dashboard, KPI | Tableau, Power BI, AgentBridge |
+| **Automation** | Workflow, follow-up, admin | AgentBridge, Zapier |
+| **CI** | Conversation intelligence | Gong, Chorus, AgentBridge |
+| **Social** | LinkedIn, networking | LinkedIn Sales Navigator |
+| **Proposal** | Proposte, contratti | PandaDoc, DocuSign, AgentBridge |
 
-## 61.4 Sales Engagement
-- Multi-channel sequences (phone, email, LinkedIn)
-- Task automation
-- Follow-up reminders
-- Template management
-- A/B testing
+## 61.2 Il Minimal Stack
 
-## 61.5 Data Enrichment
-- Auto-populate company and contact data
-- Intent data (buying signals)
-- Technographic data (current tools)
-- Firmographic data (company details)
-- Real-time updates
+**Se hai budget limitato, inizia con:**
+1. **CRM** (anche gratuito): HubSpot Free, Zoho CRM
+2. **Telefono**: Qualsiasi telefono con registrazione
+3. **AgentBridge**: Per automazione admin, email, report
+4. **Spreadsheet**: Per tracking KPI
 
-## 61.6 Automation
-- Workflow automation (if X then Y)
-- Email sequences
-- Task creation
-- Data entry automation
-- Reporting automation
+**Costo**: ~50-100€/mese
 
-## 61.7 Integrations
-- CRM ↔ Phone system
-- CRM ↔ Email
-- CRM ↔ LinkedIn
-- CRM ↔ Data enrichment
-- CRM ↔ Conversation intelligence
-- All tools connected through the CRM
+## 61.3 Il Professional Stack
 
-## 61.8 Consolidation: 2026 Priority
-The #1 priority in 2026 is tool consolidation:
-- Reduce tool sprawl (too many disconnected tools)
-- Choose platforms that do multiple things well
-- Integrate everything through the CRM
-- Reduce context-switching for sellers
-- Lower total cost of ownership
+**Per un team di 5-10 venditori:**
+1. **CRM**: HubSpot Professional / Salesforce
+2. **Dialer**: Aircall / AgentBridge SIP
+3. **AgentBridge**: Automazione, report, CI
+4. **Scheduling**: Calendly
+5. **Video**: Zoom / Teams
+6. **Proposal**: PandaDoc / AgentBridge
+7. **Analytics**: Dashboard AgentBridge
 
-## 61.9 The 5 Layers of the Modern Sales Stack
-| Layer | Function | Tools |
-|-------|----------|-------|
-| **1. Data** | Contact and company data | ZoomInfo, Clearbit, Apollo |
-| **2. Engagement** | Outreach and sequences | Outreach, Salesloft, HubSpot |
-| **3. CRM** | Pipeline and relationship management | Salesforce, HubSpot, Pipedrive |
-| **4. Intelligence** | Call analysis and insights | Gong, Chorus, Fireflies |
-| **5. Automation** | Workflows and AI assistance | Zapier, AgentBridge, native automations |
+**Costo**: ~500-1500€/mese
 
-## 61.10 Buying Guide for 2026
-- Start with CRM (non-negotiable)
-- Add phone/dialer integration
-- Add sales engagement for sequences
-- Add conversation intelligence for analysis
-- Add data enrichment for targeting
-- Add AI automation for efficiency
-- **Rule**: Each tool must integrate with the CRM. If it doesn't integrate, don't buy it.
+## 61.4 L'Enterprise Stack
+
+**Per un team di 20+ venditori:**
+1. **CRM**: Salesforce / HubSpot Enterprise
+2. **Dialer**: AgentBridge SIP / Genesys
+3. **AgentBridge**: Automazione completa, CI, report
+4. **Marketing automation**: HubSpot Marketing / Marketo
+5. **CS platform**: Gainsight / ChurnZero
+6. **BI**: Tableau / Power BI
+7. **CPQ**: Configure-Price-Quote
+8. **ERP**: SAP / Oracle
+
+**Costo**: ~5000-20000€/mese
+
+## 61.5 AgentBridge come Hub
+
+🤖 **AgentBridge come centro del tech stack:**
+- **Automazione**: Email, documenti, report, scheduling
+- **Telefonia**: SIP integrato
+- **CI**: Trascrizione e analisi chiamate
+- **Report**: Dashboard personalizzabili
+- **Integrazione**: Con CRM, email, calendar
+- **Self-hosted**: Tutti i dati restano locali
+
+## 61.6 Integrazioni Chiave
+
+**Il tuo stack deve integrarsi:**
+- CRM ↔ Dialer (click-to-call, log automatico)
+- CRM ↔ Email (tracking, automazione)
+- CRM ↔ Scheduling (sync calendario)
+- CRM ↔ AgentBridge (automazione, report)
+- Dialer ↔ CI (trascrizione, analisi)
+
+## 61.7 Scegliere i Tool
+
+**Criteri di scelta:**
+- **Fit**: Risolve il tuo problema specifico?
+- **Integrazione**: Si collega con il resto dello stack?
+- **Semplicità**: Facile da usare?
+- **Costo**: ROI positivo?
+- **Scalabilità**: Cresce con te?
+- **Privacy**: Dove vanno i dati? (AgentBridge: locali)
+
+## 61.8 Implementare il Tech Stack
+
+**Fasi:**
+1. **Audit**: Cosa hai attualmente?
+2. **Gap**: Cosa ti manca?
+3. **Priorità**: Cosa è più urgente?
+4. **Implementa**: Un tool alla volta
+5. **Forma**: Il team su ogni tool
+6. **Integra**: Collega i tool
+7. **Ottimizza**: Migliora continuamente
+
+## 61.9 Errori Comuni
+
+| Errore | Soluzione |
+|--------|-----------|
+| Troppi tool | Meno è meglio. Solo ciò che usi davvero. |
+| Tool non integrati | Scegli tool che si parlano |
+| Nessun training | Forma il team su ogni tool |
+| Nessun owner | Assegna un responsabile per ogni tool |
+| Comprare troppo presto | Inizia semplice, scala quando serve |
+| Ignorare la privacy | Scegli self-hosted quando possibile |
 
 ---
 
-## Chapter Summary
-Your tech stack should be:
-- **Integrated**: Everything connected through the CRM
-- **Consolidated**: Fewer tools, more capability per tool
-- **Automated**: Repetitive work handled by technology
-- **Intelligent**: AI-assisted analysis and insights
-- **Scalable**: Grows with your team
+## Riepilogo del Capitolo
 
-## Action Items
-- [ ] Audit your current tech stack (how many tools? Do they integrate?)
-- [ ] Identify gaps and overlaps
-- [ ] Plan a consolidation roadmap
-- [ ] Ensure all tools integrate with your CRM
-- [ ] Evaluate AI-powered tools for efficiency gains
+Tech stack per vendita telefonica:
+- **CRM**: Fonte unica di verità
+- **Dialer**: Chiamate e registrazione
+- **AgentBridge**: Automazione, CI, report, telefonia
+- **Scheduling**: Appuntamenti
+- **Analytics**: KPI e dashboard
+- **Integrazione**: Tool che si parlano
+- **Semplicità**: Solo ciò che serve
+
+---
+
+## Azioni da Intraprendere
+
+- [ ] Fai un audit del tuo tech stack attuale
+- [ ] Identifica i gap
+- [ ] Scegli 1-2 tool da aggiungere
+- [ ] Integra AgentBridge nel tuo stack
+- [ ] Forma il team sui nuovi tool

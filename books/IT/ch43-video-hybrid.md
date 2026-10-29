@@ -1,78 +1,104 @@
-# Videochiamata e vendita ibrida
+# Capitolo 43: Video e Ibrido al Telefono
 
-## 43.1 Phone vs. Video
-Video adds visual communication but changes the dynamics:
-- **Phone**: More intimate, easier to schedule, less intimidating
-- **Video**: More personal, allows screen sharing, better for demos
-- **Best practice**: Start with phone, transition to video for demos and complex discussions
+## 43.1 Dal Telefono al Video
 
-## 43.2 Presence on Video
-- Look at the camera (not the screen) for eye contact
-- Ensure good lighting (face lit from front)
-- Clean, professional background
-- Dress as you would for an in-person meeting
-- Sit upright, lean slightly forward
+La vendita telefonica si sta evolvendo verso il video. Non significa abbandonare il telefono — significa avere la flessibilità di passare al video quando aggiunge valore.
 
-## 43.3 Screen Sharing
-- Prepare your screen in advance (close unnecessary tabs)
-- Share only what's relevant
-- Use annotation tools to highlight key points
-- Have a backup plan if sharing fails
-- Ask "Can you see my screen clearly?" before starting
+**Quando il telefono è meglio:**
+- Cold call iniziale
+- Follow-up rapido
+- Check-in breve
+- Quando il prospect preferisce la voce
+- Quando il video aggiunge attrito
 
-## 43.4 Remote Demos
-Video demos are more effective than phone demos:
-- Show the actual product interface
-- Walk through real scenarios
-- Let them see results in real-time
-- Pause for questions and discussion
-- Record the demo for later reference
+**Quando il video è meglio:**
+- Demo del prodotto
+- Presentazione a più stakeholder
+- Quando serve mostrare lo schermo
+- Quando il rapporto è abbastanza caldo
+- Quando il prospect è visivo
 
-🤖 **AgentBridge Video Demo**: Share your screen showing AgentBridge creating a document in real-time. The prospect sees the prompt, the AI processing, and the finished document. This is far more impressive than describing it over the phone.
+## 43.2 Transizione Telefono → Video
 
-## 43.5 Recording and Consent
-- Always ask permission before recording
-- Explain why you're recording (for their reference, for training)
-- Store recordings securely
-- Delete when no longer needed
-- Comply with local recording laws
+📞 **Esempio:**
+"Marco, per la demo di giovedì — preferisci telefono o video? Con il video posso mostrarti AgentBridge in azione, così vedi esattamente come funziona. Ma se preferisci il telefono, va bene lo stesso."
 
-## 43.6 Best Practices
-- Test technology before every call
-- Have a phone backup if video fails
-- Send agenda and materials in advance
-- Start with small talk (video has more social expectations)
-- End with clear next steps and send summary within 1 hour
+## 43.3 Video Call Efficace
 
-## 43.7 Equipment
-- **Camera**: 1080p minimum (webcam or better)
-- **Microphone**: External mic for clear audio
-- **Lighting**: Ring light or natural light from front
-- **Internet**: Wired connection preferred (stable upload speed)
-- **Software**: Zoom, Teams, Meet, or WebRTC-based tools
+**Setup:**
+- **Sfondo**: Pulito, ordinato, professionale
+- **Illuminazione**: Luce frontale, non controluce
+- **Camera**: All'altezza degli occhi
+- **Audio**: Auricolari con microfono
+- **Connessione**: Cablata se possibile
+- **Sfondo virtuale**: Solo se professionale
 
-## 43.8 Inside Sales vs. Field Sales
-📊 **Data**: Inside sales (phone/video) reaches 4x more prospects at half the cost of field sales. This is why inside sales teams are growing rapidly.
+**Durante la video call:**
+- Guarda la camera (non lo schermo)
+- Gesticola naturalmente
+- Sorridi
+- Mantieni contatto visivo
+- Mostra lo schermo per la demo
 
-## 43.9 Hybrid Models
-Over 50% of sales forces in finance, energy, and tech now operate in hybrid models:
-- Phone for initial contact and qualification
-- Video for demos and complex discussions
-- In-person for final negotiations and relationship maintenance
-- The best sellers are comfortable in all three modes
+## 43.4 Demo Ibrida (Telefono + Video)
+
+**Formato ibrido:**
+1. **Prima parte (telefono)**: Scoperta, domande, contesto (10 min)
+2. **Seconda parte (video)**: Demo schermo, visual (15 min)
+3. **Terza parte (telefono)**: Q&A, chiusura (5 min)
+
+## 43.5 Loom e Video Asincroni
+
+**Video asincroni per follow-up:**
+- Registra un video di 2-3 minuti che mostra AgentBridge
+- Invialo via email o LinkedIn
+- Il prospect lo guarda quando vuole
+- Più personale di un'email, meno impegnativo di una call
+
+📞 **Messaggio con video:**
+"Marco, ti ho registrato un video di 2 minuti dove mostro come AgentBridge crea una fattura in 30 secondi. Lo trovi qui: [link]. Guardalo quando hai tempo. Poi mi chiami se vuoi approfondire."
+
+## 43.6 Screen Sharing al Telefono
+
+**Se non puoi fare video, puoi comunque "mostrare":**
+- Invia screenshot via email durante la chiamata
+- Manda un link a una demo interattiva
+- Usa un secondo schermo per condividere via email
+- Registra un video e invialo in tempo reale
+
+## 43.7 Gestire Problemi Tecnici Video
+
+**Se il video non funziona:**
+- "Scusa, problema tecnico — passiamo al telefono?"
+- "Ti mando un video registrato, ok?"
+- "Riprovo tra 5 minuti?"
+- **Sempre avere un piano B**
+
+## 43.8 Il Futuro Ibrido
+
+**Tendenze:**
+- **Phone-first, video-optional**: Il telefono resta il canale primario
+- **Video per momenti chiave**: Demo, presentazione, chiusura
+- **Asincrono per follow-up**: Loom, video registrati
+- **AI per transizione**: L'AI suggerisce quando passare a video
 
 ---
 
-## Chapter Summary
-Video and hybrid selling complement phone selling:
-- Use phone for speed and accessibility
-- Use video for demos and visual impact
-- Use in-person for high-stakes negotiations
-- Master all three for maximum effectiveness
+## Riepilogo del Capitolo
 
-## Action Items
-- [ ] Set up a professional video conferencing environment
-- [ ] Practice video demos of AgentBridge
-- [ ] Create a hybrid selling workflow (phone → video → close)
-- [ ] Test your equipment before every video call
-- [ ] Learn the video conferencing tools your prospects use
+Il modello ibrido telefono/video:
+- **Telefono**: Canale primario, cold call, follow-up
+- **Video**: Demo, presentazioni, momenti chiave
+- **Asincrono**: Loom, video registrati per follow-up
+- **Flessibilità**: Passare tra canali in base alla situazione
+- **Piano B**: Sempre pronto per problemi tecnici
+
+---
+
+## Azioni da Intraprendere
+
+- [ ] Configura un setup video professionale
+- [ ] Registra un video demo di 2 minuti di AgentBridge
+- [ ] Pratica la transizione telefono → video
+- [ ] Crea un template di email con video asincrono
+- [ ] Sperimenta il formato ibrido per 10 demo

@@ -1,244 +1,244 @@
-# Gestione delle liste e qualità dei dati
+# Capitolo 8: Gestione delle Liste e Qualità dei Dati
 
-## 8.1 Data Sources
+## 8.1 Fonti Dati
 
-Your call list is only as good as its source. Garbage in, garbage out. Here are the main sources of phone sales data:
+La tua lista di chiamate è buona solo quanto la sua fonte. Spazzatura dentro, spazzatura fuori. Ecco le principali fonti di dati per la vendita telefonica:
 
-| Source | Quality | Cost | Best For |
-|--------|---------|------|----------|
-| **Existing customers** | Highest | Free | Upsell, cross-sell, referral |
-| **Inbound leads** (website, forms) | High | Free | Warm calling |
-| **Event/conference lists** | Medium-High | Low-Medium | Targeted outreach |
-| **LinkedIn Sales Navigator** | High | Medium | B2B decision makers |
-| **Data providers** (ZoomInfo, Clearbit) | Medium | Medium-High | Bulk B2B data |
-| **Purchased lists** | Low | Low | Generally avoid |
-| **Web scraping** | Variable | Low | Risky, often illegal |
-| **Referrals** | Highest | Free | Warm introductions |
+| Fonte | Qualità | Costo | Ideale Per |
+|-------|---------|-------|------------|
+| **Clienti esistenti** | Massima | Gratis | Upsell, cross-sell, referral |
+| **Lead inbound** (sito, form) | Alta | Gratis | Warm calling |
+| **Liste eventi/conferenze** | Medio-Alta | Basso-Medio | Outreach mirato |
+| **LinkedIn Sales Navigator** | Alta | Medio | Decisori B2B |
+| **Provider di dati** (ZoomInfo, Clearbit) | Media | Medio-Alto | Dati B2B bulk |
+| **Liste acquistate** | Bassa | Basso | Generalmente da evitare |
+| **Web scraping** | Variabile | Basso | Rischioso, spesso illegale |
+| **Referral** | Massima | Gratis | Introduzioni calde |
 
-🤖 **AgentBridge Example**: The best sources for AgentBridge prospects are:
-1. **LinkedIn Sales Navigator**: Filter by company size (20-500), industry (professional services, admin-heavy), and recent hiring activity
-2. **Job boards**: Companies posting admin/office roles have the exact pain AgentBridge solves
-3. **Your own website visitors**: People who visited AgentBridge's pricing page or documentation
-4. **Referrals from existing customers**: "Who else do you know struggling with admin overload?"
+🤖 **Esempio AgentBridge**: Le fonti migliori per prospect AgentBridge sono:
+1. **LinkedIn Sales Navigator**: Filtra per dimensione azienda (20-500), settore (servizi professionali, admin-heavy), e attività di assunzione recente
+2. **Job board**: Le aziende che pubblicano annunci per ruoli amministrativi hanno esattamente il dolore che AgentBridge risolve
+3. **Visitatori del tuo sito**: Persone che hanno visitato la pagina prezzi o la documentazione di AgentBridge
+4. **Referral da clienti esistenti**: "Chi altro conosci che lotta con il sovraccarico amministrativo?"
 
-## 8.2 Segmentation
+## 8.2 Segmentazione
 
-Not all prospects should be treated the same. Segment your lists for targeted messaging:
+Non tutti i prospect dovrebbero essere trattati allo stesso modo. Segmenta le tue liste per messaggi mirati:
 
-**Segmentation criteria for AgentBridge:**
+**Criteri di segmentazione per AgentBridge:**
 
-| Segment | Criteria | Approach |
-|---------|----------|----------|
-| **Hot** | Visited pricing page + admin job posting | Call within 24 hours, reference both signals |
-| **Warm** | Downloaded whitepaper or engaged on LinkedIn | Call within 3 days, reference the resource |
-| **Cold-fit** | Matches ICP but no specific signal | Call within the week, focus on general value |
-| **Nurture** | Interested but not ready (wrong timing) | Email sequence, call in 30-60 days |
-| **Disqualified** | Does not fit ICP | Remove from calling list |
+| Segmento | Criteri | Approccio |
+|----------|---------|-----------|
+| **Caldo** | Ha visitato la pagina prezzi + annuncio di lavoro admin | Chiama entro 24 ore, riferisci entrambi i segnali |
+| **Tiepido** | Ha scaricato una risorsa o interagito su LinkedIn | Chiama entro 3 giorni, riferisci la risorsa |
+| **Freddo-fit** | Corrisponde all'ICP ma nessun segnale specifico | Chiama entro la settimana, focalizzati sul valore generale |
+| **Nurture** | Interessato ma non pronto (timing sbagliato) | Sequenza email, chiama in 30-60 giorni |
+| **Squalificato** | Non corrisponde all'ICP | Rimuovi dalla lista di chiamate |
 
-💡 **Tip**: The "Hot" segment is your gold mine. These prospects have shown multiple buying signals. They should receive your best effort, your best timing, and your most personalized approach.
+💡 **Suggerimento**: Il segmento "Caldo" è la tua miniera d'oro. Questi prospect hanno mostrato multipli segnali d'acquisto. Dovrebbero ricevere il tuo miglior sforzo, il tuo miglior timing e il tuo approccio più personalizzato.
 
-## 8.3 List Cleaning
+## 8.3 Pulizia Liste
 
-A dirty list wastes time, money, and morale. Every call to a wrong number, a disconnected line, or a person who left the company is a wasted call that damages your confidence and your metrics.
+Una lista sporca spreca tempo, denaro e morale. Ogni chiamata a un numero sbagliato, una linea disconnessa o una persona che ha lasciato l'azienda è una chiamata sprecata che danneggia la tua fiducia e le tue metriche.
 
-**List cleaning checklist:**
-- [ ] Remove duplicate entries
-- [ ] Verify phone numbers (use a validation service)
-- [ ] Check against ROC/do-not-call lists
-- [ ] Remove people who left the company (check LinkedIn)
-- [ ] Remove companies that closed or merged
-- [ ] Update job titles and roles
-- [ ] Remove entries with no decision-making authority
-- [ ] Flag entries with incomplete data for enrichment
+**Checklist di pulizia liste:**
+- [ ] Rimuovi voci duplicate
+- [ ] Verifica i numeri di telefono (usa un servizio di validazione)
+- [ ] Controlla contro il ROC/liste di non chiamare
+- [ ] Rimuovi persone che hanno lasciato l'azienda (controlla LinkedIn)
+- [ ] Rimuovi aziende chiuse o fuse
+- [ ] Aggiorna titoli e ruoli
+- [ ] Rimuovi voci senza autorità decisionale
+- [ ] Segnala le voci con dati incompleti per arricchimento
 
-📊 **Data Point**: The average B2B contact database decays at a rate of 30% per year. That means if you have 1,000 contacts today, 300 of them will have changed jobs, phone numbers, or companies within 12 months. Regular cleaning is essential.
+📊 **Dato**: Il database di contatti B2B medio decade al ritmo del 30% all'anno. Questo significa che se hai 1.000 contatti oggi, 300 di loro avranno cambiato lavoro, numero di telefono o azienda entro 12 mesi. La pulizia regolare è essenziale.
 
-## 8.4 Contact Verification
+## 8.4 Verifica Contatti
 
-Before calling, verify that your contact information is accurate:
+Prima di chiamare, verifica che le tue informazioni di contatto siano accurate:
 
-**Verification methods:**
-1. **Phone validation services**: Tools like Twilio Lookup, Numverify, or Clearify verify that a number is active and correctly formatted
-2. **LinkedIn cross-reference**: Check that the person is still at the company
-3. **Company website**: Verify the main phone number and department contacts
-4. **Email verification**: Tools like NeverBounce or ZeroBounce verify email deliverability
-5. **Manual check**: For high-value prospects, spend 5 minutes manually verifying
+**Metodi di verifica:**
+1. **Servizi di validazione telefonica**: Tool come Twilio Lookup, Numverify o Clearify verificano che un numero sia attivo e correttamente formattato
+2. **Cross-reference LinkedIn**: Controlla che la persona sia ancora in azienda
+3. **Sito web aziendale**: Verifica il numero principale e i contatti di reparto
+4. **Verifica email**: Tool come NeverBounce o ZeroBounce verificano la consegnabilità dell'email
+5. **Verifica manuale**: Per prospect ad alto valore, spendi 5 minuti a verificare manualmente
 
-🤖 **AgentBridge Example**: Before a call block, spend 10 minutes verifying your top 10 prospects:
-- Check LinkedIn: Is Marco still COO at [Company]? Yes. ✓
-- Check company website: Is the main number still 02-1234567? Yes. ✓
-- Check email: Is marco@company.com still valid? Verified via NeverBounce. ✓
-- Check ROC: Is this number on the do-not-call list? No. ✓
+🤖 **Esempio AgentBridge**: Prima di un blocco di chiamate, spendi 10 minuti a verificare i tuoi top 10 prospect:
+- Controlla LinkedIn: Marco è ancora COO in [Azienda]? Sì. ✓
+- Controlla sito web: Il numero principale è ancora 02-1234567? Sì. ✓
+- Controlla email: marco@azienda.com è ancora valido? Verificato via NeverBounce. ✓
+- Controlla ROC: Questo numero è nella lista di non chiamare? No. ✓
 
-This 10-minute investment saves you from wasting 5 calls on wrong numbers and protects you from compliance violations.
+Questo investimento di 10 minuti ti risparmia dallo sprecare 5 chiamate su numeri sbagliati e ti protegge da violazioni di compliance.
 
-## 8.5 Enrichment
+## 8.5 Arricchimento
 
-Data enrichment means adding information to your existing records to make them more useful for selling.
+L'arricchimento dati significa aggiungere informazioni ai tuoi record esistenti per renderli più utili per la vendita.
 
-**What to enrich:**
-- **Company data**: Size, revenue, industry, tech stack, growth rate
-- **Contact data**: Job title, role in buying process, LinkedIn profile, email
-- **Intent data**: Recent website visits, content downloads, search behavior
-- **Firmographic data**: Location, founding year, ownership structure
-- **Technographic data**: What software they currently use
+**Cosa arricchire:**
+- **Dati azienda**: Dimensione, fatturato, settore, stack tecnologico, tasso di crescita
+- **Dati contatto**: Titolo, ruolo nel processo d'acquisto, profilo LinkedIn, email
+- **Dati di intent**: Visite recenti al sito, download di contenuti, comportamento di ricerca
+- **Dati firmografici**: Localizzazione, anno di fondazione, struttura proprietaria
+- **Dati tecnologici**: Quali software usano attualmente
 
-**Enrichment tools:**
-- ZoomInfo (comprehensive B2B data)
-- Clearbit (automatic enrichment on contact creation)
-- LinkedIn Sales Navigator (professional profiles)
-- Apollo.io (combined database + outreach)
-- AgentBridge's own WebTool (research specific companies)
+**Tool di arricchimento:**
+- ZoomInfo (dati B2B completi)
+- Clearbit (arricchimento automatico alla creazione del contatto)
+- LinkedIn Sales Navigator (profili professionali)
+- Apollo.io (database combinato + outreach)
+- AgentBridge WebTool (ricerca aziende specifiche)
 
-🤖 **AgentBridge Example**: You can use AgentBridge's WebTool to enrich your prospect data. Ask the agent: "Research [Company] — find their employee count, recent news, tech stack, and key decision makers." The agent searches the web and compiles the information for you. This is a great way to demo the product while preparing for sales calls.
+🤖 **Esempio AgentBridge**: Puoi usare il WebTool di AgentBridge per arricchire i dati dei tuoi prospect. Chiedi all'agente: "Cerca [Azienda] — trova il numero di dipendenti, notizie recenti, stack tecnologico e decisori chiave." L'agente cerca sul web e compila le informazioni per te. Questo è un ottimo modo per fare demo del prodotto mentre ti prepari per le chiamate di vendita.
 
 ## 8.6 Scoring
 
-Lead scoring helps you prioritize your calls by assigning a numerical value to each prospect based on their fit and engagement.
+Il lead scoring ti aiuta a prioritizzare le tue chiamate assegnando un valore numerico a ogni prospect in base al fit e all'engagement.
 
-**AgentBridge Lead Scoring Model:**
+**Modello di Lead Scoring per AgentBridge:**
 
-| Factor | Points | Example |
-|--------|--------|---------|
-| **Company size (20-500)** | +20 | 75 employees = +20 |
-| **Admin-heavy industry** | +15 | Accounting firm = +15 |
-| **Recent admin job posting** | +25 | Posted 2 admin roles = +25 |
-| **Visited pricing page** | +20 | Visited within 7 days = +20 |
-| **Downloaded resource** | +10 | Downloaded whitepaper = +10 |
-| **LinkedIn engagement** | +5 | Commented on your post = +5 |
-| **GDPR concern mentioned** | +15 | Posted about data privacy = +15 |
-| **Wrong role (not decision maker)** | -20 | Junior staff = -20 |
-| **Too small (<10 employees)** | -30 | 5 employees = -30 |
-| **On ROC list** | -100 | Do not call |
+| Fattore | Punti | Esempio |
+|---------|-------|---------|
+| **Dimensione azienda (20-500)** | +20 | 75 dipendenti = +20 |
+| **Settore admin-heavy** | +15 | Studio contabile = +15 |
+| **Annuncio lavoro admin recente** | +25 | Pubblicato 2 ruoli admin = +25 |
+| **Visitato pagina prezzi** | +20 | Visitato entro 7 giorni = +20 |
+| **Scaricata risorsa** | +10 | Scaricato whitepaper = +10 |
+| **Interazione LinkedIn** | +5 | Commentato il tuo post = +5 |
+| **Preoccupazione GDPR menzionata** | +15 | Pubblicato su privacy dati = +15 |
+| **Ruolo sbagliato (non decisore)** | -20 | Personale junior = -20 |
+| **Troppo piccolo (<10 dipendenti)** | -30 | 5 dipendenti = -30 |
+| **Nel ROC** | -100 | Non chiamare |
 
-**Score interpretation:**
-- **80-100**: Hot — call within 24 hours
-- **50-79**: Warm — call within 3 days
-- **20-49**: Cold — call within the week
-- **0-19**: Nurture — email sequence
-- **Below 0**: Disqualified — remove
+**Interpretazione punteggio:**
+- **80-100**: Caldo — chiama entro 24 ore
+- **50-79**: Tiepido — chiama entro 3 giorni
+- **20-49**: Freddo — chiama entro la settimana
+- **0-19**: Nurture — sequenza email
+- **Sotto 0**: Squalificato — rimuovi
 
 ## 8.7 Privacy
 
-Data privacy is not just a legal requirement — it is a competitive advantage. Companies that handle data responsibly build trust. Companies that do not lose customers.
+La privacy dei dati non è solo un requisito legale — è un vantaggio competitivo. Le aziende che gestiscono i dati responsabilmente costruiscono fiducia. Quelle che non lo fanno perdono clienti.
 
-**Privacy best practices for list management:**
-1. **Collect only what you need**: Do not hoard data "just in case"
-2. **Store securely**: Encrypted databases, access controls, audit logs
-3. **Limit access**: Only team members who need the data can access it
-4. **Delete when no longer needed**: Set retention policies and enforce them
-5. **Be transparent**: Tell people what data you have and why
-6. **Honor requests**: Deletion, access, and portability requests must be fulfilled within 30 days
+**Best practice di privacy per la gestione liste:**
+1. **Raccogli solo ciò che serve**: Non accumulare dati "per ogni evenienza"
+2. **Conserva in modo sicuro**: Database cifrati, controlli di accesso, log di audit
+3. **Limita l'accesso**: Solo i membri del team che necessitano i dati possono accedervi
+4. **Cancella quando non più necessario**: Imposta policy di retention e falle rispettare
+5. **Sii trasparente**: Dì alle persone quali dati hai e perché
+6. **Onora le richieste**: Richieste di cancellazione, accesso e portabilità devono essere soddisfatte entro 30 giorni
 
-🤖 **AgentBridge Example**: This is where AgentBridge's story resonates deeply. You are selling to companies that care about data privacy. Your own list management practices should reflect the same values. "We treat your data the way AgentBridge treats your company's data — with maximum security, minimal collection, and full transparency."
+🤖 **Esempio AgentBridge**: Qui è dove la storia di AgentBridge risuona profondamente. Stai vendendo ad aziende a cui importa della privacy dei dati. Le tue pratiche di gestione liste dovrebbero riflettere gli stessi valori. "Trattiamo i tuoi dati come AgentBridge tratta i dati della tua azienda — con massima sicurezza, minima raccolta e totale trasparenza."
 
-## 8.8 Testing and Validation
+## 8.8 Test e Validazione
 
-Before launching a calling campaign, test your lists:
+Prima di lanciare una campagna di chiamate, testa le tue liste:
 
-**Pre-campaign testing:**
-1. **Sample call**: Call 10-20 numbers from the list to check quality
-2. **Connect rate test**: If connect rate is below 10%, the list quality is poor
-3. **Data accuracy check**: Verify names, titles, and companies are correct
-4. **Compliance check**: Confirm no ROC violations
-5. **Segment validation**: Ensure your segments make sense (call a few from each segment)
+**Test pre-campagna:**
+1. **Chiamata campione**: Chiama 10-20 numeri dalla lista per verificare la qualità
+2. **Test tasso di contatto**: Se il tasso di contatto è sotto il 10%, la qualità della lista è scarsa
+3. **Controllo accuratezza dati**: Verifica che nomi, titoli e aziende siano corretti
+4. **Controllo compliance**: Conferma nessuna violazione ROC
+5. **Validazione segmentazione**: Assicurati che i tuoi segmenti abbiano senso (chiama alcuni da ogni segmento)
 
-## 8.9 Intent Data and Buying Signals for Prioritizing Calls
+## 8.9 Intent Data e Segnali di Acquisto per Prioritizzare le Chiamate
 
-Intent data is the single most powerful tool for prioritizing your phone calls. It tells you WHO to call and WHEN to call them.
+I dati di intent sono il singolo strumento più potente per prioritizzare le tue chiamate telefoniche. Ti dicono CHI chiamare e QUANDO chiamarli.
 
-**Types of intent signals for AgentBridge:**
+**Tipi di segnali di intent per AgentBridge:**
 
-| Signal | Strength | What It Tells You |
-|--------|----------|-------------------|
-| Visited pricing page | 🔴 Very Strong | Actively evaluating cost |
-| Downloaded "AI automation guide" | 🟠 Strong | Researching solutions |
-| Posted about admin overload | 🟠 Strong | Feeling the pain publicly |
-| Hiring admin staff | 🟡 Medium-Strong | Has the workload problem |
-| Visited competitor's site | 🟡 Medium | Comparing options |
-| Attended AI webinar | 🟡 Medium | Interested in AI generally |
-| Company growth announcement | 🟢 Medium | Will need more capacity soon |
-| Tech stack change (new ERP) | 🟢 Medium | Open to new tools |
+| Segnale | Forza | Cosa Ti Dice |
+|---------|-------|--------------|
+| Visitato pagina prezzi | 🔴 Molto Forte | Sta valutando attivamente il costo |
+| Scaricato "guida automazione AI" | 🟠 Forte | Sta ricercando soluzioni |
+| Pubblicato su overload admin | 🟠 Forte | Sente il dolore pubblicamente |
+| Sta assumendo personale admin | 🟡 Medio-Forte | Ha il problema del carico di lavoro |
+| Visitato sito concorrente | 🟡 Medio | Sta confrontando opzioni |
+| Partecipato a webinar AI | 🟡 Medio | Interessato all'AI in generale |
+| Annuncio crescita azienda | 🟢 Medio | Avrà bisogno di più capacità presto |
+| Cambio stack tech (nuovo ERP) | 🟢 Medio | Aperto a nuovi tool |
 
-## 8.10 The Signal Detection System: Three Levels with AI
+## 8.10 Il Sistema di Rilevamento Segnali: Tre Livelli con l'AI
 
-Modern AI tools can automatically detect and classify buying signals into three levels:
+I moderni tool AI possono rilevare e classificare automaticamente i segnali d'acquisto in tre livelli:
 
-| Level | Description | Action |
-|-------|-------------|--------|
-| **Level 1: Awareness** | They know about the problem category (AI automation) but are not actively looking | Nurture with content |
-| **Level 2: Consideration** | They are actively researching solutions (visiting sites, downloading resources) | Warm call within 48 hours |
-| **Level 3: Decision** | They are comparing specific vendors, requesting demos, asking for pricing | Immediate call, priority handling |
+| Livello | Descrizione | Azione |
+|---------|-------------|--------|
+| **Livello 1: Awareness** | Sanno che esiste la categoria problema (automazione AI) ma non stanno cercando attivamente | Nurture con contenuti |
+| **Livello 2: Consideration** | Stanno ricercando attivamente soluzioni (visitando siti, scaricando risorse) | Warm call entro 48 ore |
+| **Livello 3: Decision** | Stanno confrontando vendor specifici, richiedendo demo, chiedendo prezzi | Chiamata immediata, gestione prioritaria |
 
-🤖 **AgentBridge Example**: Using AgentBridge's own WebTool and scheduling features, you can set up an automated signal detection system:
-- Agent monitors your website analytics daily
-- When a company visits your pricing page 2+ times, it flags them as Level 2
-- When they request a demo or download a comparison guide, it flags them as Level 3
-- You get a prioritized call list every morning at 8:00 AM
-- The agent even drafts a personalized opening referencing their specific behavior
+🤖 **Esempio AgentBridge**: Usando il WebTool e le funzionalità di scheduling di AgentBridge stesso, puoi configurare un sistema automatico di rilevamento segnali:
+- L'agente monitora le analytics del tuo sito quotidianamente
+- Quando un'azienda visita la tua pagina prezzi 2+ volte, la segnala come Livello 2
+- Quando richiede una demo o scarica una guida comparativa, la segnala come Livello 3
+- Ricevi una lista di chiamate prioritizzata ogni mattina alle 8:00
+- L'agente persino redige un'apertura personalizzata riferendosi al loro comportamento specifico
 
-## 8.11 Three-Level Signal Segmentation: Not All Prospects Are Equal
+## 8.11 Segmentazione dei Segnali in 3 Livelli: Non Tutti i Prospect Sono Uguali
 
-**Level 1 — Cold (General ICP Fit)**
-- Matches your ideal customer profile
-- No specific buying signal
-- Action: Add to general calling rotation, call within the week
-- Expected conversion: 2-5%
+**Livello 1 — Freddo (Fit ICP Generale)**
+- Corrisponde al tuo profilo cliente ideale
+- Nessun segnale d'acquisto specifico
+- Azione: Aggiungi alla rotazione generale di chiamate, chiama entro la settimana
+- Conversione attesa: 2-5%
 
-**Level 2 — Warm (Some Signal)**
-- Matches ICP + one or two buying signals
-- Has shown some interest or engagement
-- Action: Personalized call within 48 hours, reference the signal
-- Expected conversion: 8-15%
+**Livello 2 — Tiepido (Qualche Segnale)**
+- Corrisponde all'ICP + uno o due segnali d'acquisto
+- Ha mostrato un certo interesse o engagement
+- Azione: Chiamata personalizzata entro 48 ore, riferisci il segnale
+- Conversione attesa: 8-15%
 
-**Level 3 — Hot (Strong Signal)**
-- Matches ICP + multiple strong buying signals
-- Actively researching, comparing, or requesting information
-- Action: Call within 24 hours, highest priority, most personalized approach
-- Expected conversion: 20-35%
+**Livello 3 — Caldo (Segnale Forte)**
+- Corrisponde all'ICP + multipli forti segnali d'acquisto
+- Sta ricercando attivamente, confrontando o richiedendo informazioni
+- Azione: Chiama entro 24 ore, massima priorità, approccio più personalizzato
+- Conversione attesa: 20-35%
 
-📊 **Data Point**: Companies that prioritize calls based on intent data see a 30-50% increase in conversion rates compared to those calling without it. The difference between Level 1 and Level 3 conversion rates is dramatic — 2-5% vs 20-35%.
+📊 **Dato**: Le aziende che prioritizzano le chiamate basandosi su dati di intent vedono un aumento del 30-50% nel tasso di conversione rispetto a chi chiama senza. La differenza tra i tassi di conversione Livello 1 e Livello 3 è drammatica — 2-5% vs 20-35%.
 
-## 8.12 Verified Data: 13.3% Response Rate with Verified Contacts
+## 8.12 Dati Verificati: 13,3% di Tasso di Risposta con Contatti Verificati
 
-📊 **Key Statistic**: According to a 2025 study by Gartner, phone calls to verified contacts (where name, title, company, and number are all confirmed accurate) achieve a 13.3% response rate, compared to 4-6% for unverified data.
+📊 **Statistica Chiave**: Secondo uno studio 2025 di Gartner, le chiamate telefoniche a contatti verificati (dove nome, titolo, azienda e numero sono tutti confermati accurati) raggiungono un tasso di risposta del 13,3%, rispetto al 4-6% per dati non verificati.
 
-**What "verified" means:**
-- Phone number is active and correct
-- Person is confirmed to be at the company in the stated role
-- Company information is current
-- The contact is relevant to the product being sold
+**Cosa significa "verificato":**
+- Il numero di telefono è attivo e corretto
+- La persona è confermata essere in azienda nel ruolo dichiarato
+- Le informazioni aziendali sono aggiornate
+- Il contatto è rilevante per il prodotto venduto
 
-**How to achieve verified data:**
-1. Use data enrichment tools (ZoomInfo, Clearbit)
-2. Cross-reference with LinkedIn
-3. Verify with a phone validation service
-4. Update regularly (quarterly minimum)
-5. For high-value prospects, verify manually
-
----
-
-## Chapter Summary
-
-Your list is your lifeline. Manage it well:
-- Source from high-quality channels
-- Segment for targeted messaging
-- Clean regularly (30% annual decay)
-- Verify before calling
-- Enrich with intent data
-- Score for prioritization
-- Respect privacy always
-- Test before launching campaigns
-
-The quality of your list directly determines the quality of your results.
+**Come ottenere dati verificati:**
+1. Usa tool di arricchimento dati (ZoomInfo, Clearbit)
+2. Cross-referenza con LinkedIn
+3. Verifica con un servizio di validazione telefonica
+4. Aggiorna regolarmente (minimo trimestralmente)
+5. Per prospect ad alto valore, verifica manualmente
 
 ---
 
-## Action Items
+## Riepilogo del Capitolo
 
-- [ ] Audit your current list quality (what percentage is verified?)
-- [ ] Set up a lead scoring model for AgentBridge
-- [ ] Implement a weekly list cleaning routine
-- [ ] Identify your top 3 data sources for AgentBridge prospects
-- [ ] Create a signal detection workflow (even a simple one)
-- [ ] Set up ROC checking before your next campaign
+La tua lista è la tua linea di vita. Gestiscila bene:
+- Sorgi da canali di alta qualità
+- Segmenta per messaggi mirati
+- Pulisci regolarmente (30% di decadimento annuale)
+- Verifica prima di chiamare
+- Arricchisci con dati di intent
+- Assegna punteggi per la prioritizzazione
+- Rispetta sempre la privacy
+- Testa prima di lanciare campagne
+
+La qualità della tua lista determina direttamente la qualità dei tuoi risultati.
+
+---
+
+## Azioni da Intraprendere
+
+- [ ] Audita la qualità della tua attuale lista (che percentuale è verificata?)
+- [ ] Configura un modello di lead scoring per AgentBridge
+- [ ] Implementa una routine settimanale di pulizia liste
+- [ ] Identifica le tue top 3 fonti dati per prospect AgentBridge
+- [ ] Crea un workflow di rilevamento segnali (anche uno semplice)
+- [ ] Configura il controllo ROC prima della tua prossima campagna
